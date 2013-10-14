@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MatrixCalculator"/>
+	<classpathentry exported="true" kind="lib" path="robotium/robotium-solo-4.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/MatrixCalculatorTest/robotium/robotium-solo-4.3-javadoc.jar!/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="MatrixCalculatorTest"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

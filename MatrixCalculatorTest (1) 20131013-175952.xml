@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testrun name="MatrixCalculatorTest (1)" project="MatrixCalculatorTest" tests="63" started="63" failures="15" errors="0" ignored="0">
+  <testsuite name="Nexus4 [emulator-5554]" time="1342.334">
+    <testsuite name="com.example.matrixcalculator.test.FunctionalTests" time="1342.334">
+      <testcase name="testBVA01 " classname="com.example.matrixcalculator.test.FunctionalTests" time="18.012"/>
+      <testcase name="testBVA02 " classname="com.example.matrixcalculator.test.FunctionalTests" time="9.987"/>
+      <testcase name="testBVA03 " classname="com.example.matrixcalculator.test.FunctionalTests" time="11.267"/>
+      <testcase name="testBVA04 " classname="com.example.matrixcalculator.test.FunctionalTests" time="11.237"/>
+      <testcase name="testBVA05 " classname="com.example.matrixcalculator.test.FunctionalTests" time="17.589"/>
+      <testcase name="testBVA06 " classname="com.example.matrixcalculator.test.FunctionalTests" time="18.076"/>
+      <testcase name="testBVA07 " classname="com.example.matrixcalculator.test.FunctionalTests" time="11.019"/>
+      <testcase name="testBVA08 " classname="com.example.matrixcalculator.test.FunctionalTests" time="11.567"/>
+      <testcase name="testBVA09 " classname="com.example.matrixcalculator.test.FunctionalTests" time="11.084"/>
+      <testcase name="testBVA10 " classname="com.example.matrixcalculator.test.FunctionalTests" time="17.884">
+        <failure>junit.framework.AssertionFailedError: Toast message appeared- Empty matrix row or column size. Enter size range between 1 to 5. expected:&lt;false&gt; but was:&lt;true&gt;&#13;
+at com.example.matrixcalculator.test.FunctionalTests.testBVA10(MainTest.scala:541)&#13;
+at java.lang.reflect.Method.invokeNative(Native Method)&#13;
+at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)&#13;
+at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)&#13;
+at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)&#13;
+at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)&#13;
+at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)&#13;
+
+</failure>
+      </testcase>
+      <testcase name="testBVA11 " classname="com.example.matrixcalculator.test.FunctionalTests" time="16.011">
+        <failure>junit.framework.AssertionFailedError: Toast message appeared- Empty matrix row or column size. Enter size range between 1 to 5. expected:&lt;false&gt; but was:&lt;true&gt;&#13;
+at com.example.matrixcalculator.test.FunctionalTests.testBVA11(MainTest.scala:557)&#13;
+at java.lang.reflect.Method.invokeNative(Native Method)&#13;
+at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)&#13;
+at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)&#13;
+at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)&#13;
+at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)&#13;
+at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)&#13;
+
+</failure>
+      </testcase>
+      <testcase name="testBVA12 " classname="com.example.matrixcalculator.test.FunctionalTests" time="16.638">
+        <failure>junit.framework.AssertionFailedError: Toast message appeared- Empty matrix row or column size. Enter size range between 1 to 5. expected:&lt;false&gt; but was:&lt;true&gt;&#13;
+at com.example.matrixcalculator.test.FunctionalTests.testBVA12(MainTest.scala:573)&#13;
+at java.lang.reflect.Method.invokeNative(Native Method)&#13;
+at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)&#13;
+at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)&#13;
+at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)&#13;
+at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)&#13;
+at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)&#13;
+
+</failure>
+      </testcase>
+      <testcase name="testBVA13 " classname="com.example.matrixcalculator.test.FunctionalTests" time="17.603">
+        <failure>junit.framework.AssertionFailedError: Toast message appeared- Empty matrix row or column size. Enter size range between 1 to 5. expected:&lt;false&gt; but was:&lt;true&gt;&#13;
+at com.example.matrixcalculator.test.FunctionalTests.testBVA13(MainTest.scala:589)&#13;
+at java.lang.reflect.Method.invokeNative(Native Method)&#13;
+at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)&#13;
+at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)&#13;
+at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)&#13;
+at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)&#13;
+at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)&#13;
+
+</failure>
+      </testcase>
+      <testcase name="testBVA14 " classname="com.example.matrixcalculator.test.FunctionalTests" time="7.924"/>
+      <testcase name="testBVA15 " classname="com.example.matrixcalculator.test.FunctionalTests" time="8.346"/>
+      <testcase name="testBVA16 " classname="com.example.matrixcalculator.test.FunctionalTests" time="8.246"/>
+      <testcase name="testBVA17 " classname="com.example.matrixcalculator.test.FunctionalTests" time="8.598"/>
+      <testcase name="testEG01 " classname="com.example.matrixcalculator.test.FunctionalTests" time="10.757"/>
+      <testcase name="testEG02 " classname="com.example.matrixcalculator.test.FunctionalTests" time="12.844"/>
+      <testcase name="testEG03 " classname="com.example.matrixcalculator.test.FunctionalTests" time="16.191"/>
+      <testcase name="testEP01 " classname="com.example.matrixcalculator.test.FunctionalTests" time="12.769"/>
+      <testcase name="testEP02 " classname="com.example.matrixcalculator.test.FunctionalTests" time="8.002"/>
+      <testcase name="testEP03 " classname="com.example.matrixcalculator.test.FunctionalTests" time="8.677"/>
+      <testcase name="testEP04 " classname="com.example.matrixcalculator.test.FunctionalTests" time="8.847"/>
+      <testcase name="testEP05 " classname="com.example.matrixcalculator.test.FunctionalTests" time="9.628"/>
+      <testcase name="testEP06 " classname="com.example.matrixcalculator.test.FunctionalTests" time="8.452"/>
+      <testcase name="testEP07 " classname="com.example.matrixcalculator.test.FunctionalTests" time="8.567"/>
+      <testcase name="testEP08 " classname="com.example.matrixcalculator.test.FunctionalTests" time="8.645"/>
+      <testcase name="testEP09 " classname="com.example.matrixcalculator.test.FunctionalTests" time="9.652"/>
+      <testcase name="testEP10 " classname="com.example.matrixcalculator.test.FunctionalTests" time="8.548"/>
+      <testcase name="testEP11 " classname="com.example.matrixcalculator.test.FunctionalTests" time="8.444"/>
+      <testcase name="testEP12 " classname="com.example.matrixcalculator.test.FunctionalTests" time="8.838"/>
+      <testcase name="testEP13 " classname="com.example.matrixcalculator.test.FunctionalTests" time="9.578"/>
+      <testcase name="testEP14 " classname="com.example.matrixcalculator.test.FunctionalTests" time="7.901"/>
+      <testcase name="testEP15 " classname="com.example.matrixcalculator.test.FunctionalTests" time="8.09"/>
+      <testcase name="testEP16 " classname="com.example.matrixcalculator.test.FunctionalTests" time="8.067"/>
+      <testcase name="testEP17 " classname="com.example.matrixcalculator.test.FunctionalTests" time="8.444"/>
+      <testcase name="testEP18 " classname="com.example.matrixcalculator.test.FunctionalTests" time="16.664">
+        <failure>junit.framework.AssertionFailedError: Toast message appeared- Empty matrix row or column size. Enter size range between 1 to 5. expected:&lt;false&gt; but was:&lt;true&gt;&#13;
+at com.example.matrixcalculator.test.FunctionalTests.testEP18(MainTest.scala:222)&#13;
+at java.lang.reflect.Method.invokeNative(Native Method)&#13;
+at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)&#13;
+at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)&#13;
+at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)&#13;
+at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)&#13;
+at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)&#13;
+
+</failure>
+      </testcase>
+      <testcase name="testEP19 " classname="com.example.matrixcalculator.test.FunctionalTests" time="17.921">
+        <failure>junit.framework.AssertionFailedError: Toast message appeared- Empty matrix row or column size. Enter size range between 1 to 5. expected:&lt;false&gt; but was:&lt;true&gt;&#13;
+at com.example.matrixcalculator.test.FunctionalTests.testEP19(MainTest.scala:238)&#13;
+at java.lang.reflect.Method.invokeNative(Native Method)&#13;
+at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)&#13;
+at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)&#13;
+at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)&#13;
+at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)&#13;
+at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)&#13;
+
+</failure>
+      </testcase>
+      <testcase name="testEP20 " classname="com.example.matrixcalculator.test.FunctionalTests" time="15.633">
+        <failure>junit.framework.AssertionFailedError: Toast message appeared- Empty matrix row or column size. Enter size range between 1 to 5. expected:&lt;false&gt; but was:&lt;true&gt;&#13;
+at com.example.matrixcalculator.test.FunctionalTests.testEP20(MainTest.scala:254)&#13;
+at java.lang.reflect.Method.invokeNative(Native Method)&#13;
+at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)&#13;
+at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)&#13;
+at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)&#13;
+at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)&#13;
+at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)&#13;
+
+</failure>
+      </testcase>
+      <testcase name="testEP21 " classname="com.example.matrixcalculator.test.FunctionalTests" time="17.775">
+        <failure>junit.framework.AssertionFailedError: Toast message appeared- Empty matrix row or column size. Enter size range between 1 to 5. expected:&lt;false&gt; but was:&lt;true&gt;&#13;
+at com.example.matrixcalculator.test.FunctionalTests.testEP21(MainTest.scala:270)&#13;
+at java.lang.reflect.Method.invokeNative(Native Method)&#13;
+at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)&#13;
+at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)&#13;
+at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)&#13;
+at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)&#13;
+at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)&#13;
+
+</failure>
+      </testcase>
+      <testcase name="testEP22 " classname="com.example.matrixcalculator.test.FunctionalTests" time="9.439"/>
+      <testcase name="testEP23 " classname="com.example.matrixcalculator.test.FunctionalTests" time="14.253"/>
+      <testcase name="testEP24 " classname="com.example.matrixcalculator.test.FunctionalTests" time="17.997"/>
+      <testcase name="testEP25 " classname="com.example.matrixcalculator.test.FunctionalTests" time="14.924"/>
+      <testcase name="testEP26 " classname="com.example.matrixcalculator.test.FunctionalTests" time="13.57">
+        <failure>junit.framework.AssertionFailedError&#13;
+at com.example.matrixcalculator.test.FunctionalTests.testEP26(MainTest.scala:346)&#13;
+at java.lang.reflect.Method.invokeNative(Native Method)&#13;
+at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)&#13;
+at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)&#13;
+at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)&#13;
+at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)&#13;
+at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)&#13;
+
+</failure>
+      </testcase>
+      <testcase name="testEP27 " classname="com.example.matrixcalculator.test.FunctionalTests" time="19.078">
+        <failure>junit.framework.AssertionFailedError: Toast message appeared- Invalid matrix data. expected:&lt;false&gt; but was:&lt;true&gt;&#13;
+at com.example.matrixcalculator.test.FunctionalTests.testEP27(MainTest.scala:364)&#13;
+at java.lang.reflect.Method.invokeNative(Native Method)&#13;
+at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)&#13;
+at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)&#13;
+at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)&#13;
+at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)&#13;
+at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)&#13;
+
+</failure>
+      </testcase>
+      <testcase name="testEP28 " classname="com.example.matrixcalculator.test.FunctionalTests" time="16.036"/>
+      <testcase name="testEP29 " classname="com.example.matrixcalculator.test.FunctionalTests" time="19.682">
+        <failure>junit.framework.AssertionFailedError&#13;
+at com.example.matrixcalculator.test.FunctionalTests.testEP29(MainTest.scala:396)&#13;
+at java.lang.reflect.Method.invokeNative(Native Method)&#13;
+at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)&#13;
+at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)&#13;
+at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)&#13;
+at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)&#13;
+at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)&#13;
+
+</failure>
+      </testcase>
+      <testcase name="testEVA01 " classname="com.example.matrixcalculator.test.FunctionalTests" time="26.584">
+        <failure>junit.framework.AssertionFailedError: Toast message appeared- Empty matrix row or column size. Enter size range between 1 to 5. expected:&lt;false&gt; but was:&lt;true&gt;&#13;
+at com.example.matrixcalculator.test.FunctionalTests.testEVA01(MainTest.scala:641)&#13;
+at java.lang.reflect.Method.invokeNative(Native Method)&#13;
+at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)&#13;
+at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)&#13;
+at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)&#13;
+at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)&#13;
+at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)&#13;
+
+</failure>
+      </testcase>
+      <testcase name="testEVA02 " classname="com.example.matrixcalculator.test.FunctionalTests" time="29.351">
+        <failure>junit.framework.AssertionFailedError: Toast message appeared- Empty matrix row or column size. Enter size range between 1 to 5. expected:&lt;false&gt; but was:&lt;true&gt;&#13;
+at com.example.matrixcalculator.test.FunctionalTests.testEVA02(MainTest.scala:655)&#13;
+at java.lang.reflect.Method.invokeNative(Native Method)&#13;
+at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)&#13;
+at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)&#13;
+at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)&#13;
+at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)&#13;
+at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)&#13;
+
+</failure>
+      </testcase>
+      <testcase name="testEVA03 " classname="com.example.matrixcalculator.test.FunctionalTests" time="19.554">
+        <failure>junit.framework.AssertionFailedError&#13;
+at com.example.matrixcalculator.test.FunctionalTests.testEVA03(MainTest.scala:670)&#13;
+at java.lang.reflect.Method.invokeNative(Native Method)&#13;
+at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)&#13;
+at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)&#13;
+at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)&#13;
+at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)&#13;
+at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)&#13;
+
+</failure>
+      </testcase>
+      <testcase name="testEVA04 " classname="com.example.matrixcalculator.test.FunctionalTests" time="19.146">
+        <failure>junit.framework.AssertionFailedError&#13;
+at com.example.matrixcalculator.test.FunctionalTests.testEVA04(MainTest.scala:685)&#13;
+at java.lang.reflect.Method.invokeNative(Native Method)&#13;
+at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)&#13;
+at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)&#13;
+at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)&#13;
+at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)&#13;
+at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)&#13;
+
+</failure>
+      </testcase>
+      <testcase name="testEVA05 " classname="com.example.matrixcalculator.test.FunctionalTests" time="15.402"/>
+      <testcase name="testEVA06 " classname="com.example.matrixcalculator.test.FunctionalTests" time="16.388"/>
+      <testcase name="testEVA07 " classname="com.example.matrixcalculator.test.FunctionalTests" time="77.169"/>
+      <testcase name="testEVA08 " classname="com.example.matrixcalculator.test.FunctionalTests" time="74.316"/>
+      <testcase name="testEVA09 " classname="com.example.matrixcalculator.test.FunctionalTests" time="75.154"/>
+      <testcase name="testEVA10 " classname="com.example.matrixcalculator.test.FunctionalTests" time="76.784"/>
+      <testcase name="testEVA11 " classname="com.example.matrixcalculator.test.FunctionalTests" time="75.553"/>
+      <testcase name="testEVA12 " classname="com.example.matrixcalculator.test.FunctionalTests" time="77.754"/>
+      <testcase name="testEVA13 " classname="com.example.matrixcalculator.test.FunctionalTests" time="77.29"/>
+      <testcase name="testEVA14 " classname="com.example.matrixcalculator.test.FunctionalTests" time="76.187"/>
+    </testsuite>
+  </testsuite>
+</testrun>

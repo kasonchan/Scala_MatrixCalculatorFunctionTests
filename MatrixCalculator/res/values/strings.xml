@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Matrix Calculator</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- Prompts -->
+    <string name="matrix_operation_prompt">Choose the matrix operation:</string>
+    <string name="matrix_size_prompt">Enter the row and column sizes of the matrics:</string>
+    
+    <!-- Labels -->
+    <string name="matrix_1">Matrix 1</string>
+    <string name="matrix_2">Matrix 2</string>
+    <string-array name="matrix_operation">
+        <item>Multiplication</item>
+        <!-- <item>Addition</item>
+        <item>Subtraction</item> -->
+    </string-array>
+    <string name="row_size">Row size:</string>
+    <string name="column_size">Column size:</string>
+    <string name="generate">Generate</string>
+    <string name="compute">Compute</string>    
+    <string name="matrix_op">"Multiplication</string>
+    <string name="back">Back</string>
+    <string name="result">Result</string>
+    
+</resources>

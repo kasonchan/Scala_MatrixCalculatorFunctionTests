@@ -1,0 +1,1380 @@
+10-13 18:59:16.039: D/dalvikvm(1123): GC_FOR_ALLOC freed 386K, 18% free 2631K/3184K, paused 59ms, total 62ms
+10-13 18:59:16.579: D/dalvikvm(1123): GC_FOR_ALLOC freed 585K, 23% free 2558K/3312K, paused 42ms, total 43ms
+10-13 18:59:17.019: D/dalvikvm(1123): GC_FOR_ALLOC freed 284K, 16% free 2785K/3312K, paused 42ms, total 44ms
+10-13 18:59:17.489: D/dalvikvm(1123): GC_FOR_ALLOC freed 552K, 21% free 2743K/3464K, paused 42ms, total 44ms
+10-13 18:59:17.970: D/dalvikvm(1123): GC_FOR_ALLOC freed 554K, 23% free 2701K/3464K, paused 43ms, total 45ms
+10-13 18:59:18.489: D/dalvikvm(1123): GC_FOR_ALLOC freed 558K, 24% free 2655K/3464K, paused 41ms, total 43ms
+10-13 18:59:18.940: D/dalvikvm(1123): GC_FOR_ALLOC freed 558K, 25% free 2608K/3464K, paused 43ms, total 45ms
+10-13 18:59:19.399: D/dalvikvm(1123): GC_FOR_ALLOC freed 541K, 26% free 2579K/3464K, paused 41ms, total 44ms
+10-13 18:59:19.970: D/dalvikvm(1123): GC_FOR_ALLOC freed 325K, 21% free 2765K/3464K, paused 41ms, total 42ms
+10-13 18:59:20.489: D/dalvikvm(1123): GC_FOR_ALLOC freed 576K, 23% free 2701K/3464K, paused 44ms, total 46ms
+10-13 18:59:20.950: D/dalvikvm(1123): GC_FOR_ALLOC freed 559K, 24% free 2654K/3464K, paused 43ms, total 45ms
+10-13 18:59:21.449: D/dalvikvm(1123): GC_FOR_ALLOC freed 299K, 18% free 2866K/3464K, paused 44ms, total 45ms
+10-13 18:59:22.081: D/dalvikvm(1123): GC_FOR_ALLOC freed 673K, 24% free 2705K/3548K, paused 47ms, total 49ms
+10-13 18:59:22.609: D/dalvikvm(1123): GC_FOR_ALLOC freed 573K, 26% free 2643K/3548K, paused 43ms, total 45ms
+10-13 18:59:23.109: D/dalvikvm(1123): GC_FOR_ALLOC freed 309K, 20% free 2846K/3548K, paused 46ms, total 47ms
+10-13 18:59:23.689: D/dalvikvm(1123): GC_FOR_ALLOC freed 615K, 23% free 2743K/3548K, paused 44ms, total 47ms
+10-13 18:59:24.199: D/dalvikvm(1123): GC_FOR_ALLOC freed 576K, 25% free 2678K/3548K, paused 45ms, total 48ms
+10-13 18:59:24.640: D/dalvikvm(1123): GC_FOR_ALLOC freed 276K, 18% free 2913K/3548K, paused 46ms, total 47ms
+10-13 18:59:25.079: D/dalvikvm(1123): GC_FOR_ALLOC freed 556K, 21% free 2864K/3592K, paused 47ms, total 48ms
+10-13 18:59:25.559: D/dalvikvm(1123): GC_FOR_ALLOC freed 566K, 22% free 2810K/3592K, paused 47ms, total 49ms
+10-13 18:59:26.011: D/dalvikvm(1123): GC_FOR_ALLOC freed 563K, 24% free 2759K/3592K, paused 46ms, total 47ms
+10-13 18:59:26.469: D/dalvikvm(1123): GC_FOR_ALLOC freed 555K, 25% free 2715K/3592K, paused 44ms, total 47ms
+10-13 18:59:26.921: D/dalvikvm(1123): GC_FOR_ALLOC freed 539K, 26% free 2688K/3592K, paused 45ms, total 49ms
+10-13 18:59:27.559: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.579: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.609: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.639: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.660: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.679: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.699: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.719: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.739: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.759: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.779: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.809: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.869: D/dalvikvm(1123): GC_FOR_ALLOC freed 499K, 25% free 2700K/3592K, paused 45ms, total 47ms
+10-13 18:59:27.879: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.889: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.910: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.920: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.930: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.949: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.949: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.960: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.970: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.970: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.979: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:27.990: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.000: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.010: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.020: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.029: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.029: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.051: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.059: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.069: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.079: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.089: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.099: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.109: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.129: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.139: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.149: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.159: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.179: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.189: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.199: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.210: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.219: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.229: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.229: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.239: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.249: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.259: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.259: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.269: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.269: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.279: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.289: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.300: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.300: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.319: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.339: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.359: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.390: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.409: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.429: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.539: I/TestRunner(1123): started: testBVA01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:28.629: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.640: I/TestRunner(1123): finished: testBVA01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:28.649: I/TestRunner(1123): passed: testBVA01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:28.709: I/TestRunner(1123): started: testBVA02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:28.769: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.779: I/TestRunner(1123): finished: testBVA02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:28.779: I/TestRunner(1123): passed: testBVA02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:28.904: I/TestRunner(1123): started: testBVA03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:28.961: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:28.970: I/TestRunner(1123): finished: testBVA03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:28.970: I/TestRunner(1123): passed: testBVA03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:29.069: I/TestRunner(1123): started: testBVA04(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:29.129: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:29.139: I/TestRunner(1123): finished: testBVA04(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:29.139: I/TestRunner(1123): passed: testBVA04(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:29.214: I/TestRunner(1123): started: testBVA05(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:29.261: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:29.261: I/TestRunner(1123): finished: testBVA05(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:29.319: D/dalvikvm(1123): GC_FOR_ALLOC freed 505K, 25% free 2706K/3592K, paused 49ms, total 51ms
+10-13 18:59:29.319: I/TestRunner(1123): passed: testBVA05(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:29.389: I/TestRunner(1123): started: testBVA06(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:29.449: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:29.459: I/TestRunner(1123): finished: testBVA06(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:29.459: I/TestRunner(1123): passed: testBVA06(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:29.550: I/TestRunner(1123): started: testBVA07(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:29.619: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:29.619: I/TestRunner(1123): finished: testBVA07(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:29.629: I/TestRunner(1123): passed: testBVA07(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:29.697: I/TestRunner(1123): started: testBVA08(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:29.759: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:29.759: I/TestRunner(1123): finished: testBVA08(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:29.759: I/TestRunner(1123): passed: testBVA08(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:29.823: I/TestRunner(1123): started: testBVA09(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:29.879: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:29.879: I/TestRunner(1123): finished: testBVA09(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:29.889: I/TestRunner(1123): passed: testBVA09(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:29.978: I/TestRunner(1123): started: testBVA10(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.059: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:30.059: I/TestRunner(1123): finished: testBVA10(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.059: I/TestRunner(1123): passed: testBVA10(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.146: I/TestRunner(1123): started: testBVA11(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.189: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:30.189: I/TestRunner(1123): finished: testBVA11(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.199: I/TestRunner(1123): passed: testBVA11(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.257: I/TestRunner(1123): started: testBVA12(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.329: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:30.339: I/TestRunner(1123): finished: testBVA12(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.339: I/TestRunner(1123): passed: testBVA12(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.396: I/TestRunner(1123): started: testBVA13(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.439: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:30.439: I/TestRunner(1123): finished: testBVA13(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.439: I/TestRunner(1123): passed: testBVA13(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.520: I/TestRunner(1123): started: testBVA14(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.579: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:30.590: I/TestRunner(1123): finished: testBVA14(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.590: I/TestRunner(1123): passed: testBVA14(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.649: I/TestRunner(1123): started: testBVA15(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.699: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:30.699: I/TestRunner(1123): finished: testBVA15(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.699: I/TestRunner(1123): passed: testBVA15(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.779: I/TestRunner(1123): started: testBVA16(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.839: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:30.839: I/TestRunner(1123): finished: testBVA16(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.839: I/TestRunner(1123): passed: testBVA16(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.902: I/TestRunner(1123): started: testBVA17(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.950: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:30.960: I/TestRunner(1123): finished: testBVA17(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:30.960: I/TestRunner(1123): passed: testBVA17(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:31.040: I/TestRunner(1123): started: testEG01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:31.110: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:31.110: I/TestRunner(1123): finished: testEG01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:31.110: I/TestRunner(1123): passed: testEG01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:31.203: I/TestRunner(1123): started: testEG02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:31.279: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:31.299: I/TestRunner(1123): finished: testEG02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:31.299: I/TestRunner(1123): passed: testEG02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:31.428: I/TestRunner(1123): started: testEG03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:31.479: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:31.479: I/TestRunner(1123): finished: testEG03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:31.489: I/TestRunner(1123): passed: testEG03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:31.562: I/TestRunner(1123): started: testEP01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:31.599: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:31.599: I/TestRunner(1123): finished: testEP01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:31.611: I/TestRunner(1123): passed: testEP01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:31.674: I/TestRunner(1123): started: testEP02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:31.709: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:31.709: I/TestRunner(1123): finished: testEP02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:31.709: I/TestRunner(1123): passed: testEP02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:31.772: I/TestRunner(1123): started: testEP03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:31.819: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:31.819: I/TestRunner(1123): finished: testEP03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:31.819: I/TestRunner(1123): passed: testEP03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:31.888: I/TestRunner(1123): started: testEP04(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:31.940: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:31.950: I/TestRunner(1123): finished: testEP04(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:31.950: I/TestRunner(1123): passed: testEP04(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.005: I/TestRunner(1123): started: testEP05(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.049: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:32.049: I/TestRunner(1123): finished: testEP05(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.049: I/TestRunner(1123): passed: testEP05(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.118: I/TestRunner(1123): started: testEP06(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.149: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:32.149: I/TestRunner(1123): finished: testEP06(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.159: I/TestRunner(1123): passed: testEP06(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.222: I/TestRunner(1123): started: testEP07(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.270: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:32.270: I/TestRunner(1123): finished: testEP07(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.279: I/TestRunner(1123): passed: testEP07(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.353: I/TestRunner(1123): started: testEP08(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.399: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:32.399: I/TestRunner(1123): finished: testEP08(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.399: I/TestRunner(1123): passed: testEP08(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.469: I/TestRunner(1123): started: testEP09(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.519: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:32.529: I/TestRunner(1123): finished: testEP09(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.529: I/TestRunner(1123): passed: testEP09(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.599: I/TestRunner(1123): started: testEP10(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.639: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:32.639: I/TestRunner(1123): finished: testEP10(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.649: I/TestRunner(1123): passed: testEP10(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.719: I/TestRunner(1123): started: testEP11(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.769: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:32.769: I/TestRunner(1123): finished: testEP11(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.779: I/TestRunner(1123): passed: testEP11(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.836: I/TestRunner(1123): started: testEP12(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.890: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:32.890: I/TestRunner(1123): finished: testEP12(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:32.890: I/TestRunner(1123): passed: testEP12(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:33.000: I/TestRunner(1123): started: testEP13(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:33.039: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:33.039: I/TestRunner(1123): finished: testEP13(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:33.039: I/TestRunner(1123): passed: testEP13(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:33.112: I/TestRunner(1123): started: testEP14(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:33.160: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:33.160: I/TestRunner(1123): finished: testEP14(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:33.170: I/TestRunner(1123): passed: testEP14(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:33.225: I/TestRunner(1123): started: testEP15(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:33.269: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:33.269: I/TestRunner(1123): finished: testEP15(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:33.269: I/TestRunner(1123): passed: testEP15(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:33.361: I/TestRunner(1123): started: testEP16(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:33.446: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:33.449: I/TestRunner(1123): finished: testEP16(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:33.474: I/TestRunner(1123): passed: testEP16(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:33.600: I/TestRunner(1123): started: testEP17(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:33.699: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:33.699: I/TestRunner(1123): finished: testEP17(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:33.709: I/TestRunner(1123): passed: testEP17(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:33.779: I/TestRunner(1123): started: testEP18(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:33.819: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:33.829: I/TestRunner(1123): finished: testEP18(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:33.839: I/TestRunner(1123): passed: testEP18(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:33.893: I/TestRunner(1123): started: testEP19(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:33.940: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:33.950: I/TestRunner(1123): finished: testEP19(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:33.950: I/TestRunner(1123): passed: testEP19(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.005: I/TestRunner(1123): started: testEP20(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.079: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:34.089: I/TestRunner(1123): finished: testEP20(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.089: I/TestRunner(1123): passed: testEP20(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.160: I/TestRunner(1123): started: testEP21(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.210: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:34.219: I/TestRunner(1123): finished: testEP21(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.219: I/TestRunner(1123): passed: testEP21(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.281: I/TestRunner(1123): started: testEP22(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.319: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:34.329: I/TestRunner(1123): finished: testEP22(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.339: I/TestRunner(1123): passed: testEP22(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.390: I/TestRunner(1123): started: testEP23(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.429: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:34.429: I/TestRunner(1123): finished: testEP23(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.429: I/TestRunner(1123): passed: testEP23(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.499: I/TestRunner(1123): started: testEP24(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.539: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:34.549: I/TestRunner(1123): finished: testEP24(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.549: I/TestRunner(1123): passed: testEP24(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.612: I/TestRunner(1123): started: testEP25(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.659: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:34.669: I/TestRunner(1123): finished: testEP25(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.669: I/TestRunner(1123): passed: testEP25(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.729: I/TestRunner(1123): started: testEP26(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.810: D/dalvikvm(1123): GC_FOR_ALLOC freed 509K, 25% free 2708K/3592K, paused 46ms, total 46ms
+10-13 18:59:34.810: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:34.810: I/TestRunner(1123): finished: testEP26(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.819: I/TestRunner(1123): passed: testEP26(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.880: I/TestRunner(1123): started: testEP27(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.920: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:34.920: I/TestRunner(1123): finished: testEP27(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.929: I/TestRunner(1123): passed: testEP27(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:34.990: I/TestRunner(1123): started: testEP28(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.031: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:35.031: I/TestRunner(1123): finished: testEP28(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.039: I/TestRunner(1123): passed: testEP28(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.099: I/TestRunner(1123): started: testEP29(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.129: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:35.139: I/TestRunner(1123): finished: testEP29(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.139: I/TestRunner(1123): passed: testEP29(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.198: I/TestRunner(1123): started: testEVA01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.229: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:35.229: I/TestRunner(1123): finished: testEVA01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.240: I/TestRunner(1123): passed: testEVA01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.304: I/TestRunner(1123): started: testEVA02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.329: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:35.329: I/TestRunner(1123): finished: testEVA02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.339: I/TestRunner(1123): passed: testEVA02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.398: I/TestRunner(1123): started: testEVA03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.439: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:35.439: I/TestRunner(1123): finished: testEVA03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.439: I/TestRunner(1123): passed: testEVA03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.500: I/TestRunner(1123): started: testEVA04(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.539: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:35.539: I/TestRunner(1123): finished: testEVA04(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.559: I/TestRunner(1123): passed: testEVA04(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.629: I/TestRunner(1123): started: testEVA05(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.669: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:35.669: I/TestRunner(1123): finished: testEVA05(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.669: I/TestRunner(1123): passed: testEVA05(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.728: I/TestRunner(1123): started: testEVA06(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.759: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:35.759: I/TestRunner(1123): finished: testEVA06(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.769: I/TestRunner(1123): passed: testEVA06(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.835: I/TestRunner(1123): started: testEVA07(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.869: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:35.869: I/TestRunner(1123): finished: testEVA07(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.879: I/TestRunner(1123): passed: testEVA07(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.941: I/TestRunner(1123): started: testEVA08(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:35.990: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:35.990: I/TestRunner(1123): finished: testEVA08(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:36.000: I/TestRunner(1123): passed: testEVA08(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:36.051: I/TestRunner(1123): started: testEVA09(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:36.089: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:36.089: I/TestRunner(1123): finished: testEVA09(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:36.089: I/TestRunner(1123): passed: testEVA09(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:36.143: I/TestRunner(1123): started: testEVA10(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:36.179: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:36.179: I/TestRunner(1123): finished: testEVA10(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:36.179: I/TestRunner(1123): passed: testEVA10(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:36.240: I/TestRunner(1123): started: testEVA11(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:36.279: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:36.279: I/TestRunner(1123): finished: testEVA11(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:36.279: I/TestRunner(1123): passed: testEVA11(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:36.357: I/TestRunner(1123): started: testEVA12(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:36.379: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:36.379: I/TestRunner(1123): finished: testEVA12(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:36.389: I/TestRunner(1123): passed: testEVA12(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:36.447: I/TestRunner(1123): started: testEVA13(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:36.479: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:36.479: I/TestRunner(1123): finished: testEVA13(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:36.479: I/TestRunner(1123): passed: testEVA13(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:36.539: I/TestRunner(1123): started: testEVA14(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:36.590: E/dalvikvm(1123): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:36.590: I/TestRunner(1123): finished: testEVA14(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:36.590: I/TestRunner(1123): passed: testEVA14(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:40.219: D/dalvikvm(1149): GC_FOR_ALLOC freed 389K, 18% free 2627K/3184K, paused 59ms, total 63ms
+10-13 18:59:40.759: D/dalvikvm(1149): GC_FOR_ALLOC freed 576K, 23% free 2564K/3308K, paused 40ms, total 42ms
+10-13 18:59:41.201: D/dalvikvm(1149): GC_FOR_ALLOC freed 293K, 16% free 2782K/3308K, paused 42ms, total 43ms
+10-13 18:59:41.679: D/dalvikvm(1149): GC_FOR_ALLOC freed 552K, 21% free 2743K/3464K, paused 42ms, total 46ms
+10-13 18:59:42.141: D/dalvikvm(1149): GC_FOR_ALLOC freed 554K, 23% free 2701K/3464K, paused 43ms, total 45ms
+10-13 18:59:42.659: D/dalvikvm(1149): GC_FOR_ALLOC freed 558K, 24% free 2654K/3464K, paused 47ms, total 49ms
+10-13 18:59:43.109: D/dalvikvm(1149): GC_FOR_ALLOC freed 558K, 25% free 2608K/3464K, paused 41ms, total 44ms
+10-13 18:59:43.559: D/dalvikvm(1149): GC_FOR_ALLOC freed 541K, 26% free 2578K/3464K, paused 41ms, total 42ms
+10-13 18:59:44.139: D/dalvikvm(1149): GC_FOR_ALLOC freed 325K, 21% free 2765K/3464K, paused 43ms, total 44ms
+10-13 18:59:44.659: D/dalvikvm(1149): GC_FOR_ALLOC freed 575K, 23% free 2701K/3464K, paused 50ms, total 52ms
+10-13 18:59:45.119: D/dalvikvm(1149): GC_FOR_ALLOC freed 559K, 24% free 2654K/3464K, paused 43ms, total 45ms
+10-13 18:59:45.599: D/dalvikvm(1149): GC_FOR_ALLOC freed 299K, 18% free 2866K/3464K, paused 42ms, total 43ms
+10-13 18:59:46.219: D/dalvikvm(1149): GC_FOR_ALLOC freed 673K, 24% free 2705K/3548K, paused 46ms, total 49ms
+10-13 18:59:46.749: D/dalvikvm(1149): GC_FOR_ALLOC freed 581K, 26% free 2636K/3548K, paused 42ms, total 44ms
+10-13 18:59:47.229: D/dalvikvm(1149): GC_FOR_ALLOC freed 301K, 20% free 2847K/3548K, paused 43ms, total 44ms
+10-13 18:59:47.829: D/dalvikvm(1149): GC_FOR_ALLOC freed 615K, 23% free 2743K/3548K, paused 47ms, total 49ms
+10-13 18:59:48.329: D/dalvikvm(1149): GC_FOR_ALLOC freed 576K, 25% free 2679K/3548K, paused 44ms, total 46ms
+10-13 18:59:48.769: D/dalvikvm(1149): GC_FOR_ALLOC freed 276K, 18% free 2914K/3548K, paused 43ms, total 45ms
+10-13 18:59:49.209: D/dalvikvm(1149): GC_FOR_ALLOC freed 556K, 21% free 2869K/3596K, paused 47ms, total 48ms
+10-13 18:59:49.679: D/dalvikvm(1149): GC_FOR_ALLOC freed 565K, 22% free 2815K/3596K, paused 44ms, total 46ms
+10-13 18:59:50.139: D/dalvikvm(1149): GC_FOR_ALLOC freed 563K, 24% free 2763K/3596K, paused 44ms, total 46ms
+10-13 18:59:50.589: D/dalvikvm(1149): GC_FOR_ALLOC freed 555K, 25% free 2720K/3596K, paused 43ms, total 46ms
+10-13 18:59:51.039: D/dalvikvm(1149): GC_FOR_ALLOC freed 539K, 26% free 2693K/3596K, paused 46ms, total 51ms
+10-13 18:59:51.629: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:51.659: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:51.689: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:51.719: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:51.749: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:51.769: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:51.789: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:51.819: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:51.839: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:51.859: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:51.879: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:51.900: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:51.930: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:51.999: D/dalvikvm(1149): GC_FOR_ALLOC freed 505K, 25% free 2699K/3596K, paused 47ms, total 49ms
+10-13 18:59:51.999: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.019: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.030: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.039: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.049: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.059: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.069: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.069: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.089: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.089: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.109: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.109: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.129: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.129: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.149: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.159: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.169: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.179: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.189: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.199: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.199: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.210: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.219: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.229: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.239: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.249: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.269: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.279: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.289: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.289: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.309: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.309: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.329: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.329: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.339: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.339: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.349: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.359: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.359: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.379: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.379: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.390: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.399: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.409: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.409: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.429: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.449: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.469: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.489: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.509: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:52.620: I/TestRunner(1149): started: testBVA01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 18:59:52.679: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 18:59:53.839: D/dalvikvm(1149): GC_FOR_ALLOC freed 455K, 24% free 2748K/3596K, paused 149ms, total 180ms
+10-13 18:59:54.579: D/dalvikvm(1149): GC_FOR_ALLOC freed 9K, 18% free 2958K/3596K, paused 49ms, total 56ms
+10-13 18:59:54.679: I/dalvikvm-heap(1149): Grow heap (frag case) to 4.125MB for 1127536-byte allocation
+10-13 18:59:54.839: D/dalvikvm(1149): GC_FOR_ALLOC freed <1K, 14% free 4059K/4700K, paused 161ms, total 161ms
+10-13 18:59:55.059: D/dalvikvm(1149): GC_FOR_ALLOC freed 5K, 13% free 4168K/4748K, paused 47ms, total 58ms
+10-13 18:59:55.299: D/dalvikvm(1149): GC_FOR_ALLOC freed 13K, 12% free 4344K/4892K, paused 44ms, total 51ms
+10-13 18:59:55.819: D/libEGL(1149): loaded /system/lib/egl/libEGL_emulation.so
+10-13 18:59:55.829: D/(1149): HostConnection::get() New Host Connection established 0x2a20c0d0, tid 1149
+10-13 18:59:55.849: D/libEGL(1149): loaded /system/lib/egl/libGLESv1_CM_emulation.so
+10-13 18:59:55.869: D/libEGL(1149): loaded /system/lib/egl/libGLESv2_emulation.so
+10-13 18:59:55.940: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 18:59:55.950: D/OpenGLRenderer(1149): Enabling debug mode 0
+10-13 18:59:56.010: I/Choreographer(1149): Skipped 31 frames!  The application may be doing too much work on its main thread.
+10-13 19:00:03.269: D/dalvikvm(1149): GC_FOR_ALLOC freed 421K, 12% free 4535K/5124K, paused 99ms, total 111ms
+10-13 19:00:06.809: D/dalvikvm(1149): GC_FOR_ALLOC freed 315K, 9% free 4901K/5384K, paused 100ms, total 103ms
+10-13 19:00:07.669: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:00:07.901: I/Choreographer(1149): Skipped 42 frames!  The application may be doing too much work on its main thread.
+10-13 19:00:09.539: I/Choreographer(1149): Skipped 42 frames!  The application may be doing too much work on its main thread.
+10-13 19:00:09.809: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:00:10.249: I/Choreographer(1149): Skipped 31 frames!  The application may be doing too much work on its main thread.
+10-13 19:00:10.639: I/TestRunner(1149): finished: testBVA01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:00:10.639: I/TestRunner(1149): passed: testBVA01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:00:10.689: I/TestRunner(1149): started: testBVA02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:00:10.769: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:00:10.870: W/IInputConnectionWrapper(1149): showStatusIcon on inactive InputConnection
+10-13 19:00:12.609: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:00:20.569: I/TestRunner(1149): finished: testBVA02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:00:20.569: I/TestRunner(1149): passed: testBVA02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:00:20.649: I/TestRunner(1149): started: testBVA03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:00:20.740: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:00:22.970: D/dalvikvm(1149): GC_FOR_ALLOC freed 465K, 11% free 5240K/5872K, paused 116ms, total 129ms
+10-13 19:00:23.291: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:00:31.840: I/TestRunner(1149): finished: testBVA03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:00:31.840: I/TestRunner(1149): passed: testBVA03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:00:31.940: I/TestRunner(1149): started: testBVA04(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:00:31.999: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:00:33.900: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:00:34.009: I/Choreographer(1149): Skipped 31 frames!  The application may be doing too much work on its main thread.
+10-13 19:00:43.139: I/TestRunner(1149): finished: testBVA04(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:00:43.139: I/TestRunner(1149): passed: testBVA04(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:00:43.189: I/TestRunner(1149): started: testBVA05(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:00:43.259: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:00:45.591: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:00:47.920: D/dalvikvm(1149): GC_FOR_ALLOC freed 627K, 13% free 5530K/6324K, paused 88ms, total 114ms
+10-13 19:00:55.679: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:00:56.019: I/Choreographer(1149): Skipped 66 frames!  The application may be doing too much work on its main thread.
+10-13 19:00:58.969: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:00:59.679: I/Choreographer(1149): Skipped 34 frames!  The application may be doing too much work on its main thread.
+10-13 19:01:00.689: I/TestRunner(1149): finished: testBVA05(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:01:00.719: I/TestRunner(1149): passed: testBVA05(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:01:00.779: I/TestRunner(1149): started: testBVA06(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:01:01.159: D/dalvikvm(1149): GC_FOR_ALLOC freed 1083K, 19% free 5457K/6708K, paused 292ms, total 299ms
+10-13 19:01:01.179: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:01:02.860: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:01:12.880: D/dalvikvm(1149): GC_FOR_ALLOC freed 552K, 13% free 5892K/6708K, paused 158ms, total 201ms
+10-13 19:01:13.689: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:01:14.069: I/Choreographer(1149): Skipped 196 frames!  The application may be doing too much work on its main thread.
+10-13 19:01:15.939: I/dalvikvm(1149): Jit: resizing JitTable from 4096 to 8192
+10-13 19:01:17.959: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:01:18.759: I/TestRunner(1149): finished: testBVA06(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:01:18.769: I/TestRunner(1149): passed: testBVA06(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:01:18.849: I/TestRunner(1149): started: testBVA07(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:01:18.909: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:01:19.169: I/Choreographer(1149): Skipped 69 frames!  The application may be doing too much work on its main thread.
+10-13 19:01:20.111: W/IInputConnectionWrapper(1149): showStatusIcon on inactive InputConnection
+10-13 19:01:20.939: I/Choreographer(1149): Skipped 48 frames!  The application may be doing too much work on its main thread.
+10-13 19:01:21.239: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:01:29.769: I/TestRunner(1149): finished: testBVA07(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:01:29.790: I/TestRunner(1149): passed: testBVA07(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:01:29.840: I/TestRunner(1149): started: testBVA08(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:01:29.949: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:01:31.830: D/dalvikvm(1149): GC_FOR_ALLOC freed 1166K, 19% free 5858K/7192K, paused 293ms, total 328ms
+10-13 19:01:32.439: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:01:35.000: D/dalvikvm(1149): GREF has increased to 201
+10-13 19:01:41.369: I/TestRunner(1149): finished: testBVA08(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:01:41.379: I/TestRunner(1149): passed: testBVA08(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:01:41.429: I/TestRunner(1149): started: testBVA09(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:01:41.499: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:01:43.345: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:01:52.399: I/TestRunner(1149): finished: testBVA09(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:01:52.399: I/TestRunner(1149): passed: testBVA09(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:01:52.489: I/TestRunner(1149): started: testBVA10(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:01:52.559: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:01:54.399: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:01:54.549: I/Choreographer(1149): Skipped 33 frames!  The application may be doing too much work on its main thread.
+10-13 19:02:02.039: D/dalvikvm(1149): GC_FOR_ALLOC freed 1216K, 20% free 5763K/7192K, paused 98ms, total 108ms
+10-13 19:02:04.559: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:02:04.969: I/Choreographer(1149): Skipped 47 frames!  The application may be doing too much work on its main thread.
+10-13 19:02:08.759: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:02:09.480: W/IInputConnectionWrapper(1149): showStatusIcon on inactive InputConnection
+10-13 19:02:09.589: I/TestRunner(1149): failed: testBVA10(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:02:09.589: I/TestRunner(1149): ----- begin exception -----
+10-13 19:02:09.759: I/TestRunner(1149): junit.framework.AssertionFailedError: Toast message appeared- Empty matrix row or column size. Enter size range between 1 to 5. expected:<false> but was:<true>
+10-13 19:02:09.759: I/TestRunner(1149):   at junit.framework.Assert.fail(Assert.java:50)
+10-13 19:02:09.759: I/TestRunner(1149):   at junit.framework.Assert.failNotEquals(Assert.java:287)
+10-13 19:02:09.759: I/TestRunner(1149):   at junit.framework.Assert.assertEquals(Assert.java:67)
+10-13 19:02:09.759: I/TestRunner(1149):   at junit.framework.Assert.assertEquals(Assert.java:147)
+10-13 19:02:09.759: I/TestRunner(1149):   at com.example.matrixcalculator.test.FunctionalTests.testBVA10(MainTest.scala:541)
+10-13 19:02:09.759: I/TestRunner(1149):   at java.lang.reflect.Method.invokeNative(Native Method)
+10-13 19:02:09.759: I/TestRunner(1149):   at java.lang.reflect.Method.invoke(Method.java:525)
+10-13 19:02:09.759: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)
+10-13 19:02:09.759: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)
+10-13 19:02:09.759: I/TestRunner(1149):   at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)
+10-13 19:02:09.759: I/TestRunner(1149):   at junit.framework.TestCase.runBare(TestCase.java:134)
+10-13 19:02:09.759: I/TestRunner(1149):   at junit.framework.TestResult$1.protect(TestResult.java:115)
+10-13 19:02:09.759: I/TestRunner(1149):   at junit.framework.TestResult.runProtected(TestResult.java:133)
+10-13 19:02:09.759: I/TestRunner(1149):   at junit.framework.TestResult.run(TestResult.java:118)
+10-13 19:02:09.759: I/TestRunner(1149):   at junit.framework.TestCase.run(TestCase.java:124)
+10-13 19:02:09.759: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)
+10-13 19:02:09.759: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)
+10-13 19:02:09.759: I/TestRunner(1149):   at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)
+10-13 19:02:09.759: I/TestRunner(1149):   at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)
+10-13 19:02:09.771: I/TestRunner(1149): ----- end exception -----
+10-13 19:02:10.289: D/dalvikvm(1149): GC_FOR_ALLOC freed 705K, 15% free 6146K/7192K, paused 279ms, total 286ms
+10-13 19:02:10.341: I/TestRunner(1149): finished: testBVA10(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:02:10.439: I/TestRunner(1149): started: testBVA11(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:02:10.469: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:02:12.305: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:02:26.239: I/TestRunner(1149): failed: testBVA11(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:02:26.249: I/TestRunner(1149): ----- begin exception -----
+10-13 19:02:26.310: I/TestRunner(1149): junit.framework.AssertionFailedError: Toast message appeared- Empty matrix row or column size. Enter size range between 1 to 5. expected:<false> but was:<true>
+10-13 19:02:26.310: I/TestRunner(1149):   at junit.framework.Assert.fail(Assert.java:50)
+10-13 19:02:26.310: I/TestRunner(1149):   at junit.framework.Assert.failNotEquals(Assert.java:287)
+10-13 19:02:26.310: I/TestRunner(1149):   at junit.framework.Assert.assertEquals(Assert.java:67)
+10-13 19:02:26.310: I/TestRunner(1149):   at junit.framework.Assert.assertEquals(Assert.java:147)
+10-13 19:02:26.310: I/TestRunner(1149):   at com.example.matrixcalculator.test.FunctionalTests.testBVA11(MainTest.scala:557)
+10-13 19:02:26.310: I/TestRunner(1149):   at java.lang.reflect.Method.invokeNative(Native Method)
+10-13 19:02:26.310: I/TestRunner(1149):   at java.lang.reflect.Method.invoke(Method.java:525)
+10-13 19:02:26.310: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)
+10-13 19:02:26.310: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)
+10-13 19:02:26.310: I/TestRunner(1149):   at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)
+10-13 19:02:26.310: I/TestRunner(1149):   at junit.framework.TestCase.runBare(TestCase.java:134)
+10-13 19:02:26.310: I/TestRunner(1149):   at junit.framework.TestResult$1.protect(TestResult.java:115)
+10-13 19:02:26.310: I/TestRunner(1149):   at junit.framework.TestResult.runProtected(TestResult.java:133)
+10-13 19:02:26.310: I/TestRunner(1149):   at junit.framework.TestResult.run(TestResult.java:118)
+10-13 19:02:26.310: I/TestRunner(1149):   at junit.framework.TestCase.run(TestCase.java:124)
+10-13 19:02:26.310: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)
+10-13 19:02:26.310: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)
+10-13 19:02:26.310: I/TestRunner(1149):   at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)
+10-13 19:02:26.310: I/TestRunner(1149):   at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)
+10-13 19:02:26.310: I/TestRunner(1149): ----- end exception -----
+10-13 19:02:26.439: I/TestRunner(1149): finished: testBVA11(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:02:26.489: I/TestRunner(1149): started: testBVA12(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:02:26.539: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:02:28.699: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:02:31.389: D/dalvikvm(1149): GC_FOR_ALLOC freed 935K, 15% free 6430K/7532K, paused 117ms, total 143ms
+10-13 19:02:42.929: I/TestRunner(1149): failed: testBVA12(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:02:42.929: I/TestRunner(1149): ----- begin exception -----
+10-13 19:02:42.969: I/TestRunner(1149): junit.framework.AssertionFailedError: Toast message appeared- Empty matrix row or column size. Enter size range between 1 to 5. expected:<false> but was:<true>
+10-13 19:02:42.969: I/TestRunner(1149):   at junit.framework.Assert.fail(Assert.java:50)
+10-13 19:02:42.969: I/TestRunner(1149):   at junit.framework.Assert.failNotEquals(Assert.java:287)
+10-13 19:02:42.969: I/TestRunner(1149):   at junit.framework.Assert.assertEquals(Assert.java:67)
+10-13 19:02:42.969: I/TestRunner(1149):   at junit.framework.Assert.assertEquals(Assert.java:147)
+10-13 19:02:42.969: I/TestRunner(1149):   at com.example.matrixcalculator.test.FunctionalTests.testBVA12(MainTest.scala:573)
+10-13 19:02:42.969: I/TestRunner(1149):   at java.lang.reflect.Method.invokeNative(Native Method)
+10-13 19:02:42.969: I/TestRunner(1149):   at java.lang.reflect.Method.invoke(Method.java:525)
+10-13 19:02:42.969: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)
+10-13 19:02:42.969: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)
+10-13 19:02:42.969: I/TestRunner(1149):   at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)
+10-13 19:02:42.969: I/TestRunner(1149):   at junit.framework.TestCase.runBare(TestCase.java:134)
+10-13 19:02:42.969: I/TestRunner(1149):   at junit.framework.TestResult$1.protect(TestResult.java:115)
+10-13 19:02:42.969: I/TestRunner(1149):   at junit.framework.TestResult.runProtected(TestResult.java:133)
+10-13 19:02:42.969: I/TestRunner(1149):   at junit.framework.TestResult.run(TestResult.java:118)
+10-13 19:02:42.969: I/TestRunner(1149):   at junit.framework.TestCase.run(TestCase.java:124)
+10-13 19:02:42.969: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)
+10-13 19:02:42.969: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)
+10-13 19:02:42.969: I/TestRunner(1149):   at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)
+10-13 19:02:42.969: I/TestRunner(1149):   at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)
+10-13 19:02:42.969: I/TestRunner(1149): ----- end exception -----
+10-13 19:02:43.129: I/TestRunner(1149): finished: testBVA12(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:02:43.191: I/TestRunner(1149): started: testBVA13(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:02:43.239: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:02:45.039: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:02:53.829: D/dalvikvm(1149): GC_FOR_ALLOC freed 1523K, 22% free 6217K/7908K, paused 177ms, total 192ms
+10-13 19:02:55.479: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:02:55.749: I/Choreographer(1149): Skipped 37 frames!  The application may be doing too much work on its main thread.
+10-13 19:02:58.939: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:02:59.649: I/Choreographer(1149): Skipped 32 frames!  The application may be doing too much work on its main thread.
+10-13 19:03:00.619: I/TestRunner(1149): failed: testBVA13(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:03:00.619: I/TestRunner(1149): ----- begin exception -----
+10-13 19:03:00.649: I/TestRunner(1149): junit.framework.AssertionFailedError: Toast message appeared- Empty matrix row or column size. Enter size range between 1 to 5. expected:<false> but was:<true>
+10-13 19:03:00.649: I/TestRunner(1149):   at junit.framework.Assert.fail(Assert.java:50)
+10-13 19:03:00.649: I/TestRunner(1149):   at junit.framework.Assert.failNotEquals(Assert.java:287)
+10-13 19:03:00.649: I/TestRunner(1149):   at junit.framework.Assert.assertEquals(Assert.java:67)
+10-13 19:03:00.649: I/TestRunner(1149):   at junit.framework.Assert.assertEquals(Assert.java:147)
+10-13 19:03:00.649: I/TestRunner(1149):   at com.example.matrixcalculator.test.FunctionalTests.testBVA13(MainTest.scala:589)
+10-13 19:03:00.649: I/TestRunner(1149):   at java.lang.reflect.Method.invokeNative(Native Method)
+10-13 19:03:00.649: I/TestRunner(1149):   at java.lang.reflect.Method.invoke(Method.java:525)
+10-13 19:03:00.649: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)
+10-13 19:03:00.649: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)
+10-13 19:03:00.649: I/TestRunner(1149):   at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)
+10-13 19:03:00.649: I/TestRunner(1149):   at junit.framework.TestCase.runBare(TestCase.java:134)
+10-13 19:03:00.649: I/TestRunner(1149):   at junit.framework.TestResult$1.protect(TestResult.java:115)
+10-13 19:03:00.649: I/TestRunner(1149):   at junit.framework.TestResult.runProtected(TestResult.java:133)
+10-13 19:03:00.649: I/TestRunner(1149):   at junit.framework.TestResult.run(TestResult.java:118)
+10-13 19:03:00.649: I/TestRunner(1149):   at junit.framework.TestCase.run(TestCase.java:124)
+10-13 19:03:00.649: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)
+10-13 19:03:00.649: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)
+10-13 19:03:00.649: I/TestRunner(1149):   at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)
+10-13 19:03:00.649: I/TestRunner(1149):   at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)
+10-13 19:03:00.659: I/TestRunner(1149): ----- end exception -----
+10-13 19:03:00.740: I/TestRunner(1149): finished: testBVA13(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:03:00.849: I/TestRunner(1149): started: testBVA14(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:03:00.903: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:03:02.579: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:03:06.089: D/dalvikvm(1149): GC_FOR_ALLOC freed 914K, 18% free 6543K/7908K, paused 125ms, total 136ms
+10-13 19:03:08.049: W/IInputConnectionWrapper(1149): showStatusIcon on inactive InputConnection
+10-13 19:03:08.680: I/TestRunner(1149): finished: testBVA14(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:03:08.680: I/TestRunner(1149): passed: testBVA14(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:03:08.740: I/TestRunner(1149): started: testBVA15(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:03:08.820: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:03:10.679: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:03:17.009: I/TestRunner(1149): finished: testBVA15(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:03:17.029: I/TestRunner(1149): passed: testBVA15(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:03:17.099: I/TestRunner(1149): started: testBVA16(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:03:17.169: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:03:18.919: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:03:25.269: I/TestRunner(1149): finished: testBVA16(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:03:25.279: I/TestRunner(1149): passed: testBVA16(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:03:25.339: I/TestRunner(1149): started: testBVA17(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:03:25.389: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:03:27.180: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:03:31.320: D/dalvikvm(1149): GC_FOR_ALLOC freed 1288K, 19% free 6604K/8060K, paused 130ms, total 156ms
+10-13 19:03:33.869: I/TestRunner(1149): finished: testBVA17(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:03:33.869: I/TestRunner(1149): passed: testBVA17(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:03:33.929: I/TestRunner(1149): started: testEG01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:03:33.989: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:03:35.869: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:03:44.650: I/TestRunner(1149): finished: testEG01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:03:44.650: I/TestRunner(1149): passed: testEG01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:03:44.700: I/TestRunner(1149): started: testEG02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:03:44.759: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:03:46.579: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:03:57.480: I/TestRunner(1149): finished: testEG02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:03:57.480: I/TestRunner(1149): passed: testEG02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:03:57.559: I/TestRunner(1149): started: testEG03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:03:57.599: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:03:59.399: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:04:05.989: D/dalvikvm(1149): GC_FOR_ALLOC freed 912K, 14% free 7065K/8144K, paused 208ms, total 219ms
+10-13 19:04:07.049: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:04:07.389: W/ViewRootImpl(1149): Dropping event due to no window focus: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_LEFT_BRACKET, scanCode=0, metaState=0, flags=0x8, repeatCount=0, eventTime=644192, downTime=644192, deviceId=-1, source=0x101 }
+10-13 19:04:07.400: I/Choreographer(1149): Skipped 36 frames!  The application may be doing too much work on its main thread.
+10-13 19:04:07.429: D/InputEventConsistencyVerifier(1149): KeyEvent: ACTION_UP but key was not down.
+10-13 19:04:07.429: D/InputEventConsistencyVerifier(1149):   in com.android.internal.policy.impl.PhoneWindow$DecorView{41bd7c40 V.E..... R.....ID 0,0-768,1184}
+10-13 19:04:07.429: D/InputEventConsistencyVerifier(1149):   0: sent at 644365000000, KeyEvent { action=ACTION_UP, keyCode=KEYCODE_LEFT_BRACKET, scanCode=0, metaState=0, flags=0x8, repeatCount=0, eventTime=644365, downTime=644365, deviceId=-1, source=0x101 }
+10-13 19:04:11.901: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:04:12.650: I/Choreographer(1149): Skipped 35 frames!  The application may be doing too much work on its main thread.
+10-13 19:04:13.630: I/TestRunner(1149): finished: testEG03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:04:13.630: I/TestRunner(1149): passed: testEG03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:04:13.740: I/TestRunner(1149): started: testEP01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:04:13.779: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:04:15.889: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:04:23.199: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:04:23.660: D/dalvikvm(1149): GC_FOR_ALLOC freed 944K, 13% free 7645K/8756K, paused 234ms, total 252ms
+10-13 19:04:23.919: I/Choreographer(1149): Skipped 105 frames!  The application may be doing too much work on its main thread.
+10-13 19:04:26.469: I/TestRunner(1149): finished: testEP01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:04:26.469: I/TestRunner(1149): passed: testEP01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:04:26.509: I/TestRunner(1149): started: testEP02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:04:26.549: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:04:26.749: I/Choreographer(1149): Skipped 40 frames!  The application may be doing too much work on its main thread.
+10-13 19:04:26.999: W/IInputConnectionWrapper(1149): showStatusIcon on inactive InputConnection
+10-13 19:04:28.519: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:04:33.889: W/IInputConnectionWrapper(1149): showStatusIcon on inactive InputConnection
+10-13 19:04:34.449: I/TestRunner(1149): finished: testEP02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:04:34.449: I/TestRunner(1149): passed: testEP02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:04:34.509: I/TestRunner(1149): started: testEP03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:04:34.569: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:04:36.409: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:04:43.120: I/TestRunner(1149): finished: testEP03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:04:43.120: I/TestRunner(1149): passed: testEP03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:04:43.189: I/TestRunner(1149): started: testEP04(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:04:43.251: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:04:45.001: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:04:45.159: I/Choreographer(1149): Skipped 31 frames!  The application may be doing too much work on its main thread.
+10-13 19:04:51.959: I/TestRunner(1149): finished: testEP04(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:04:51.969: I/TestRunner(1149): passed: testEP04(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:04:52.009: I/TestRunner(1149): started: testEP05(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:04:52.099: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:04:54.389: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:04:55.600: D/dalvikvm(1149): GC_FOR_ALLOC freed 1522K, 18% free 7838K/9528K, paused 165ms, total 187ms
+10-13 19:05:01.600: I/TestRunner(1149): finished: testEP05(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:05:01.609: I/TestRunner(1149): passed: testEP05(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:05:01.661: I/TestRunner(1149): started: testEP06(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:05:01.700: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:05:03.379: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:05:09.299: W/IInputConnectionWrapper(1149): showStatusIcon on inactive InputConnection
+10-13 19:05:09.979: I/TestRunner(1149): finished: testEP06(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:05:09.979: I/TestRunner(1149): passed: testEP06(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:05:10.029: I/TestRunner(1149): started: testEP07(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:05:10.101: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:05:11.959: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:05:18.630: I/TestRunner(1149): finished: testEP07(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:05:18.640: I/TestRunner(1149): passed: testEP07(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:05:18.680: I/TestRunner(1149): started: testEP08(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:05:18.719: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:05:20.519: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:05:20.751: I/Choreographer(1149): Skipped 41 frames!  The application may be doing too much work on its main thread.
+10-13 19:05:27.269: I/TestRunner(1149): finished: testEP08(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:05:27.289: I/TestRunner(1149): passed: testEP08(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:05:27.339: I/TestRunner(1149): started: testEP09(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:05:27.389: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:05:29.789: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:05:30.899: D/dalvikvm(1149): GC_FOR_ALLOC freed 1696K, 20% free 7925K/9788K, paused 460ms, total 471ms
+10-13 19:05:30.909: I/Choreographer(1149): Skipped 39 frames!  The application may be doing too much work on its main thread.
+10-13 19:05:36.879: I/TestRunner(1149): finished: testEP09(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:05:36.889: I/TestRunner(1149): passed: testEP09(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:05:36.951: I/TestRunner(1149): started: testEP10(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:05:37.019: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:05:38.679: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:05:44.809: W/IInputConnectionWrapper(1149): showStatusIcon on inactive InputConnection
+10-13 19:05:45.429: I/TestRunner(1149): finished: testEP10(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:05:45.439: I/TestRunner(1149): passed: testEP10(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:05:45.499: I/TestRunner(1149): started: testEP11(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:05:45.570: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:05:47.289: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:05:47.399: I/Choreographer(1149): Skipped 30 frames!  The application may be doing too much work on its main thread.
+10-13 19:05:53.909: I/TestRunner(1149): finished: testEP11(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:05:53.909: I/TestRunner(1149): passed: testEP11(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:05:53.980: I/TestRunner(1149): started: testEP12(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:05:54.029: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:05:55.809: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:05:56.029: I/Choreographer(1149): Skipped 39 frames!  The application may be doing too much work on its main thread.
+10-13 19:06:02.751: I/TestRunner(1149): finished: testEP12(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:06:02.769: I/TestRunner(1149): passed: testEP12(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:06:02.819: I/TestRunner(1149): started: testEP13(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:06:02.859: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:06:05.239: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:06:06.439: D/dalvikvm(1149): GC_FOR_ALLOC freed 1362K, 16% free 8374K/9904K, paused 180ms, total 205ms
+10-13 19:06:12.339: I/TestRunner(1149): finished: testEP13(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:06:12.339: I/TestRunner(1149): passed: testEP13(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:06:12.389: I/TestRunner(1149): started: testEP14(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:06:12.449: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:06:14.182: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:06:14.299: I/Choreographer(1149): Skipped 31 frames!  The application may be doing too much work on its main thread.
+10-13 19:06:19.749: W/IInputConnectionWrapper(1149): showStatusIcon on inactive InputConnection
+10-13 19:06:20.229: I/TestRunner(1149): finished: testEP14(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:06:20.229: I/TestRunner(1149): passed: testEP14(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:06:20.289: I/TestRunner(1149): started: testEP15(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:06:20.339: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:06:22.189: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:06:28.339: I/TestRunner(1149): finished: testEP15(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:06:28.339: I/TestRunner(1149): passed: testEP15(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:06:28.379: I/TestRunner(1149): started: testEP16(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:06:28.429: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:06:30.209: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:06:36.399: I/TestRunner(1149): finished: testEP16(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:06:36.409: I/TestRunner(1149): passed: testEP16(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:06:36.459: I/TestRunner(1149): started: testEP17(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:06:36.500: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:06:38.169: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:06:38.339: I/Choreographer(1149): Skipped 34 frames!  The application may be doing too much work on its main thread.
+10-13 19:06:42.269: D/dalvikvm(1149): GC_FOR_ALLOC freed 1525K, 17% free 8807K/10500K, paused 193ms, total 205ms
+10-13 19:06:44.829: I/TestRunner(1149): finished: testEP17(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:06:44.829: I/TestRunner(1149): passed: testEP17(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:06:44.879: I/TestRunner(1149): started: testEP18(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:06:44.930: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:06:46.719: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:06:55.789: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:06:56.079: I/Choreographer(1149): Skipped 34 frames!  The application may be doing too much work on its main thread.
+10-13 19:06:56.809: I/Choreographer(1149): Skipped 30 frames!  The application may be doing too much work on its main thread.
+10-13 19:07:00.530: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:07:01.379: I/TestRunner(1149): failed: testEP18(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:07:01.389: I/TestRunner(1149): ----- begin exception -----
+10-13 19:07:01.419: I/TestRunner(1149): junit.framework.AssertionFailedError: Toast message appeared- Empty matrix row or column size. Enter size range between 1 to 5. expected:<false> but was:<true>
+10-13 19:07:01.419: I/TestRunner(1149):   at junit.framework.Assert.fail(Assert.java:50)
+10-13 19:07:01.419: I/TestRunner(1149):   at junit.framework.Assert.failNotEquals(Assert.java:287)
+10-13 19:07:01.419: I/TestRunner(1149):   at junit.framework.Assert.assertEquals(Assert.java:67)
+10-13 19:07:01.419: I/TestRunner(1149):   at junit.framework.Assert.assertEquals(Assert.java:147)
+10-13 19:07:01.419: I/TestRunner(1149):   at com.example.matrixcalculator.test.FunctionalTests.testEP18(MainTest.scala:222)
+10-13 19:07:01.419: I/TestRunner(1149):   at java.lang.reflect.Method.invokeNative(Native Method)
+10-13 19:07:01.419: I/TestRunner(1149):   at java.lang.reflect.Method.invoke(Method.java:525)
+10-13 19:07:01.419: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)
+10-13 19:07:01.419: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)
+10-13 19:07:01.419: I/TestRunner(1149):   at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)
+10-13 19:07:01.419: I/TestRunner(1149):   at junit.framework.TestCase.runBare(TestCase.java:134)
+10-13 19:07:01.419: I/TestRunner(1149):   at junit.framework.TestResult$1.protect(TestResult.java:115)
+10-13 19:07:01.419: I/TestRunner(1149):   at junit.framework.TestResult.runProtected(TestResult.java:133)
+10-13 19:07:01.419: I/TestRunner(1149):   at junit.framework.TestResult.run(TestResult.java:118)
+10-13 19:07:01.419: I/TestRunner(1149):   at junit.framework.TestCase.run(TestCase.java:124)
+10-13 19:07:01.419: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)
+10-13 19:07:01.419: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)
+10-13 19:07:01.419: I/TestRunner(1149):   at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)
+10-13 19:07:01.419: I/TestRunner(1149):   at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)
+10-13 19:07:01.449: I/TestRunner(1149): ----- end exception -----
+10-13 19:07:01.549: I/TestRunner(1149): finished: testEP18(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:07:01.600: I/TestRunner(1149): started: testEP19(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:07:01.639: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:07:02.369: W/IInputConnectionWrapper(1149): showStatusIcon on inactive InputConnection
+10-13 19:07:03.510: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:07:10.599: D/dalvikvm(1149): GC_FOR_ALLOC freed 1446K, 15% free 9410K/11024K, paused 214ms, total 227ms
+10-13 19:07:12.620: D/dalvikvm(1149): GREF has increased to 301
+10-13 19:07:12.959: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:07:13.249: I/Choreographer(1149): Skipped 32 frames!  The application may be doing too much work on its main thread.
+10-13 19:07:17.639: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:07:18.399: I/Choreographer(1149): Skipped 32 frames!  The application may be doing too much work on its main thread.
+10-13 19:07:19.389: I/TestRunner(1149): failed: testEP19(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:07:19.409: I/TestRunner(1149): ----- begin exception -----
+10-13 19:07:19.439: I/TestRunner(1149): junit.framework.AssertionFailedError: Toast message appeared- Empty matrix row or column size. Enter size range between 1 to 5. expected:<false> but was:<true>
+10-13 19:07:19.439: I/TestRunner(1149):   at junit.framework.Assert.fail(Assert.java:50)
+10-13 19:07:19.439: I/TestRunner(1149):   at junit.framework.Assert.failNotEquals(Assert.java:287)
+10-13 19:07:19.439: I/TestRunner(1149):   at junit.framework.Assert.assertEquals(Assert.java:67)
+10-13 19:07:19.439: I/TestRunner(1149):   at junit.framework.Assert.assertEquals(Assert.java:147)
+10-13 19:07:19.439: I/TestRunner(1149):   at com.example.matrixcalculator.test.FunctionalTests.testEP19(MainTest.scala:238)
+10-13 19:07:19.439: I/TestRunner(1149):   at java.lang.reflect.Method.invokeNative(Native Method)
+10-13 19:07:19.439: I/TestRunner(1149):   at java.lang.reflect.Method.invoke(Method.java:525)
+10-13 19:07:19.439: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)
+10-13 19:07:19.439: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)
+10-13 19:07:19.439: I/TestRunner(1149):   at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)
+10-13 19:07:19.439: I/TestRunner(1149):   at junit.framework.TestCase.runBare(TestCase.java:134)
+10-13 19:07:19.439: I/TestRunner(1149):   at junit.framework.TestResult$1.protect(TestResult.java:115)
+10-13 19:07:19.439: I/TestRunner(1149):   at junit.framework.TestResult.runProtected(TestResult.java:133)
+10-13 19:07:19.439: I/TestRunner(1149):   at junit.framework.TestResult.run(TestResult.java:118)
+10-13 19:07:19.439: I/TestRunner(1149):   at junit.framework.TestCase.run(TestCase.java:124)
+10-13 19:07:19.439: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)
+10-13 19:07:19.439: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)
+10-13 19:07:19.439: I/TestRunner(1149):   at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)
+10-13 19:07:19.439: I/TestRunner(1149):   at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)
+10-13 19:07:19.439: I/TestRunner(1149): ----- end exception -----
+10-13 19:07:19.520: I/TestRunner(1149): finished: testEP19(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:07:19.560: I/TestRunner(1149): started: testEP20(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:07:19.609: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:07:21.179: I/Choreographer(1149): Skipped 60 frames!  The application may be doing too much work on its main thread.
+10-13 19:07:21.460: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:07:30.929: D/dalvikvm(1149): GC_FOR_ALLOC freed 1692K, 16% free 9769K/11628K, paused 359ms, total 406ms
+10-13 19:07:31.540: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:07:31.889: I/Choreographer(1149): Skipped 48 frames!  The application may be doing too much work on its main thread.
+10-13 19:07:34.199: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:07:34.809: W/IInputConnectionWrapper(1149): showStatusIcon on inactive InputConnection
+10-13 19:07:35.059: I/TestRunner(1149): failed: testEP20(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:07:35.059: I/TestRunner(1149): ----- begin exception -----
+10-13 19:07:35.129: I/TestRunner(1149): junit.framework.AssertionFailedError: Toast message appeared- Empty matrix row or column size. Enter size range between 1 to 5. expected:<false> but was:<true>
+10-13 19:07:35.129: I/TestRunner(1149):   at junit.framework.Assert.fail(Assert.java:50)
+10-13 19:07:35.129: I/TestRunner(1149):   at junit.framework.Assert.failNotEquals(Assert.java:287)
+10-13 19:07:35.129: I/TestRunner(1149):   at junit.framework.Assert.assertEquals(Assert.java:67)
+10-13 19:07:35.129: I/TestRunner(1149):   at junit.framework.Assert.assertEquals(Assert.java:147)
+10-13 19:07:35.129: I/TestRunner(1149):   at com.example.matrixcalculator.test.FunctionalTests.testEP20(MainTest.scala:254)
+10-13 19:07:35.129: I/TestRunner(1149):   at java.lang.reflect.Method.invokeNative(Native Method)
+10-13 19:07:35.129: I/TestRunner(1149):   at java.lang.reflect.Method.invoke(Method.java:525)
+10-13 19:07:35.129: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)
+10-13 19:07:35.129: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)
+10-13 19:07:35.129: I/TestRunner(1149):   at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)
+10-13 19:07:35.129: I/TestRunner(1149):   at junit.framework.TestCase.runBare(TestCase.java:134)
+10-13 19:07:35.129: I/TestRunner(1149):   at junit.framework.TestResult$1.protect(TestResult.java:115)
+10-13 19:07:35.129: I/TestRunner(1149):   at junit.framework.TestResult.runProtected(TestResult.java:133)
+10-13 19:07:35.129: I/TestRunner(1149):   at junit.framework.TestResult.run(TestResult.java:118)
+10-13 19:07:35.129: I/TestRunner(1149):   at junit.framework.TestCase.run(TestCase.java:124)
+10-13 19:07:35.129: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)
+10-13 19:07:35.129: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)
+10-13 19:07:35.129: I/TestRunner(1149):   at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)
+10-13 19:07:35.129: I/TestRunner(1149):   at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)
+10-13 19:07:35.129: I/TestRunner(1149): ----- end exception -----
+10-13 19:07:35.179: I/TestRunner(1149): finished: testEP20(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:07:35.239: I/TestRunner(1149): started: testEP21(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:07:35.279: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:07:35.620: I/Choreographer(1149): Skipped 37 frames!  The application may be doing too much work on its main thread.
+10-13 19:07:37.039: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:07:46.229: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:07:46.589: I/Choreographer(1149): Skipped 38 frames!  The application may be doing too much work on its main thread.
+10-13 19:07:51.039: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:07:51.929: I/Choreographer(1149): Skipped 38 frames!  The application may be doing too much work on its main thread.
+10-13 19:07:52.809: I/TestRunner(1149): failed: testEP21(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:07:52.809: I/TestRunner(1149): ----- begin exception -----
+10-13 19:07:52.849: I/TestRunner(1149): junit.framework.AssertionFailedError: Toast message appeared- Empty matrix row or column size. Enter size range between 1 to 5. expected:<false> but was:<true>
+10-13 19:07:52.849: I/TestRunner(1149):   at junit.framework.Assert.fail(Assert.java:50)
+10-13 19:07:52.849: I/TestRunner(1149):   at junit.framework.Assert.failNotEquals(Assert.java:287)
+10-13 19:07:52.849: I/TestRunner(1149):   at junit.framework.Assert.assertEquals(Assert.java:67)
+10-13 19:07:52.849: I/TestRunner(1149):   at junit.framework.Assert.assertEquals(Assert.java:147)
+10-13 19:07:52.849: I/TestRunner(1149):   at com.example.matrixcalculator.test.FunctionalTests.testEP21(MainTest.scala:270)
+10-13 19:07:52.849: I/TestRunner(1149):   at java.lang.reflect.Method.invokeNative(Native Method)
+10-13 19:07:52.849: I/TestRunner(1149):   at java.lang.reflect.Method.invoke(Method.java:525)
+10-13 19:07:52.849: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)
+10-13 19:07:52.849: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)
+10-13 19:07:52.849: I/TestRunner(1149):   at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)
+10-13 19:07:52.849: I/TestRunner(1149):   at junit.framework.TestCase.runBare(TestCase.java:134)
+10-13 19:07:52.849: I/TestRunner(1149):   at junit.framework.TestResult$1.protect(TestResult.java:115)
+10-13 19:07:52.849: I/TestRunner(1149):   at junit.framework.TestResult.runProtected(TestResult.java:133)
+10-13 19:07:52.849: I/TestRunner(1149):   at junit.framework.TestResult.run(TestResult.java:118)
+10-13 19:07:52.849: I/TestRunner(1149):   at junit.framework.TestCase.run(TestCase.java:124)
+10-13 19:07:52.849: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)
+10-13 19:07:52.849: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)
+10-13 19:07:52.849: I/TestRunner(1149):   at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)
+10-13 19:07:52.849: I/TestRunner(1149):   at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)
+10-13 19:07:52.869: I/TestRunner(1149): ----- end exception -----
+10-13 19:07:52.989: I/TestRunner(1149): finished: testEP21(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:07:53.070: I/TestRunner(1149): started: testEP22(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:07:53.159: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:07:55.649: D/dalvikvm(1149): GC_FOR_ALLOC freed 1780K, 17% free 10037K/11984K, paused 311ms, total 327ms
+10-13 19:07:55.779: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:07:55.869: I/Choreographer(1149): Skipped 36 frames!  The application may be doing too much work on its main thread.
+10-13 19:08:02.500: I/TestRunner(1149): finished: testEP22(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:08:02.500: I/TestRunner(1149): passed: testEP22(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:08:02.540: I/TestRunner(1149): started: testEP23(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:08:02.579: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:08:04.339: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:08:10.460: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:08:10.799: I/Choreographer(1149): Skipped 35 frames!  The application may be doing too much work on its main thread.
+10-13 19:08:13.189: I/dalvikvm(1149): Could not find method scala.collection.parallel.IterableSplitter.toString, referenced from method scala.collection.parallel.ParIterableLike$Accessor$class.toString
+10-13 19:08:13.189: W/dalvikvm(1149): VFY: unable to resolve interface method 13466: Lscala/collection/parallel/IterableSplitter;.toString ()Ljava/lang/String;
+10-13 19:08:13.189: D/dalvikvm(1149): VFY: replacing opcode 0x72 at 0x001b
+10-13 19:08:13.260: I/System.out(1149): 3
+10-13 19:08:14.249: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:08:16.150: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:08:16.749: I/TestRunner(1149): finished: testEP23(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:08:16.749: I/TestRunner(1149): passed: testEP23(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:08:16.789: I/TestRunner(1149): started: testEP24(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:08:16.830: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:08:18.541: I/Choreographer(1149): Skipped 69 frames!  The application may be doing too much work on its main thread.
+10-13 19:08:18.939: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:08:21.079: D/dalvikvm(1149): GC_FOR_ALLOC freed 2035K, 18% free 10049K/12252K, paused 250ms, total 274ms
+10-13 19:08:25.709: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:08:25.939: I/Choreographer(1149): Skipped 31 frames!  The application may be doing too much work on its main thread.
+10-13 19:08:30.309: D/dalvikvm(1149): GC_FOR_ALLOC freed 1061K, 20% free 9916K/12252K, paused 279ms, total 294ms
+10-13 19:08:32.679: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:08:34.719: I/TestRunner(1149): finished: testEP24(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:08:34.719: I/TestRunner(1149): passed: testEP24(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:08:34.779: I/TestRunner(1149): started: testEP25(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:08:34.830: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:08:36.500: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:08:42.699: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:08:43.009: I/Choreographer(1149): Skipped 35 frames!  The application may be doing too much work on its main thread.
+10-13 19:08:47.692: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:08:49.659: I/TestRunner(1149): finished: testEP25(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:08:49.659: I/TestRunner(1149): passed: testEP25(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:08:49.709: I/TestRunner(1149): started: testEP26(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:08:49.750: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:08:51.379: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:08:57.239: D/dalvikvm(1149): GC_FOR_ALLOC freed 1384K, 14% free 10579K/12252K, paused 384ms, total 413ms
+10-13 19:08:58.789: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:08:59.059: I/Choreographer(1149): Skipped 31 frames!  The application may be doing too much work on its main thread.
+10-13 19:09:01.410: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:09:03.139: I/TestRunner(1149): failed: testEP26(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:09:03.149: I/TestRunner(1149): ----- begin exception -----
+10-13 19:09:03.179: I/TestRunner(1149): junit.framework.AssertionFailedError
+10-13 19:09:03.179: I/TestRunner(1149):   at junit.framework.Assert.fail(Assert.java:48)
+10-13 19:09:03.179: I/TestRunner(1149):   at junit.framework.Assert.fail(Assert.java:56)
+10-13 19:09:03.179: I/TestRunner(1149):   at com.example.matrixcalculator.test.FunctionalTests.testEP26(MainTest.scala:346)
+10-13 19:09:03.179: I/TestRunner(1149):   at java.lang.reflect.Method.invokeNative(Native Method)
+10-13 19:09:03.179: I/TestRunner(1149):   at java.lang.reflect.Method.invoke(Method.java:525)
+10-13 19:09:03.179: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)
+10-13 19:09:03.179: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)
+10-13 19:09:03.179: I/TestRunner(1149):   at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)
+10-13 19:09:03.179: I/TestRunner(1149):   at junit.framework.TestCase.runBare(TestCase.java:134)
+10-13 19:09:03.179: I/TestRunner(1149):   at junit.framework.TestResult$1.protect(TestResult.java:115)
+10-13 19:09:03.179: I/TestRunner(1149):   at junit.framework.TestResult.runProtected(TestResult.java:133)
+10-13 19:09:03.179: I/TestRunner(1149):   at junit.framework.TestResult.run(TestResult.java:118)
+10-13 19:09:03.179: I/TestRunner(1149):   at junit.framework.TestCase.run(TestCase.java:124)
+10-13 19:09:03.179: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)
+10-13 19:09:03.179: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)
+10-13 19:09:03.179: I/TestRunner(1149):   at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)
+10-13 19:09:03.179: I/TestRunner(1149):   at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)
+10-13 19:09:03.189: I/TestRunner(1149): ----- end exception -----
+10-13 19:09:03.249: I/TestRunner(1149): finished: testEP26(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:09:03.299: I/TestRunner(1149): started: testEP27(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:09:03.339: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:09:05.230: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:09:10.919: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:09:11.370: W/ViewRootImpl(1149): Dropping event due to no window focus: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_1, scanCode=0, metaState=0, flags=0x8, repeatCount=0, eventTime=948081, downTime=948081, deviceId=-1, source=0x101 }
+10-13 19:09:11.370: I/Choreographer(1149): Skipped 42 frames!  The application may be doing too much work on its main thread.
+10-13 19:09:11.440: D/InputEventConsistencyVerifier(1149): KeyEvent: ACTION_UP but key was not down.
+10-13 19:09:11.440: D/InputEventConsistencyVerifier(1149):   in com.android.internal.policy.impl.PhoneWindow$DecorView{41f531f8 V.E..... R.....ID 0,0-768,1184}
+10-13 19:09:11.440: D/InputEventConsistencyVerifier(1149):   0: sent at 948360000000, KeyEvent { action=ACTION_UP, keyCode=KEYCODE_1, scanCode=0, metaState=0, flags=0x8, repeatCount=0, eventTime=948360, downTime=948360, deviceId=-1, source=0x101 }
+10-13 19:09:15.019: I/System.out(1149): 3
+10-13 19:09:16.799: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:09:17.601: D/dalvikvm(1149): GC_FOR_ALLOC freed 1990K, 17% free 10639K/12796K, paused 408ms, total 425ms
+10-13 19:09:21.169: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:09:22.229: I/TestRunner(1149): failed: testEP27(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:09:22.229: I/TestRunner(1149): ----- begin exception -----
+10-13 19:09:22.249: I/TestRunner(1149): junit.framework.AssertionFailedError: Toast message appeared- Invalid matrix data. expected:<false> but was:<true>
+10-13 19:09:22.249: I/TestRunner(1149):   at junit.framework.Assert.fail(Assert.java:50)
+10-13 19:09:22.249: I/TestRunner(1149):   at junit.framework.Assert.failNotEquals(Assert.java:287)
+10-13 19:09:22.249: I/TestRunner(1149):   at junit.framework.Assert.assertEquals(Assert.java:67)
+10-13 19:09:22.249: I/TestRunner(1149):   at junit.framework.Assert.assertEquals(Assert.java:147)
+10-13 19:09:22.249: I/TestRunner(1149):   at com.example.matrixcalculator.test.FunctionalTests.testEP27(MainTest.scala:364)
+10-13 19:09:22.249: I/TestRunner(1149):   at java.lang.reflect.Method.invokeNative(Native Method)
+10-13 19:09:22.249: I/TestRunner(1149):   at java.lang.reflect.Method.invoke(Method.java:525)
+10-13 19:09:22.249: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)
+10-13 19:09:22.249: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)
+10-13 19:09:22.249: I/TestRunner(1149):   at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)
+10-13 19:09:22.249: I/TestRunner(1149):   at junit.framework.TestCase.runBare(TestCase.java:134)
+10-13 19:09:22.249: I/TestRunner(1149):   at junit.framework.TestResult$1.protect(TestResult.java:115)
+10-13 19:09:22.249: I/TestRunner(1149):   at junit.framework.TestResult.runProtected(TestResult.java:133)
+10-13 19:09:22.249: I/TestRunner(1149):   at junit.framework.TestResult.run(TestResult.java:118)
+10-13 19:09:22.249: I/TestRunner(1149):   at junit.framework.TestCase.run(TestCase.java:124)
+10-13 19:09:22.249: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)
+10-13 19:09:22.249: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)
+10-13 19:09:22.249: I/TestRunner(1149):   at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)
+10-13 19:09:22.249: I/TestRunner(1149):   at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)
+10-13 19:09:22.249: I/TestRunner(1149): ----- end exception -----
+10-13 19:09:22.360: I/TestRunner(1149): finished: testEP27(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:09:22.420: I/TestRunner(1149): started: testEP28(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:09:22.460: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:09:24.029: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:09:30.359: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:09:30.639: I/Choreographer(1149): Skipped 31 frames!  The application may be doing too much work on its main thread.
+10-13 19:09:33.119: I/System.out(1149): 3
+10-13 19:09:33.869: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:09:35.680: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:09:36.709: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:09:38.380: I/TestRunner(1149): finished: testEP28(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:09:38.390: I/TestRunner(1149): passed: testEP28(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:09:38.439: I/TestRunner(1149): started: testEP29(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:09:38.509: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:09:40.693: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:09:42.799: D/dalvikvm(1149): GC_FOR_ALLOC freed 1764K, 16% free 10923K/12856K, paused 261ms, total 292ms
+10-13 19:09:46.949: I/dalvikvm(1149): Jit: resizing JitTable from 8192 to 16384
+10-13 19:09:47.410: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:09:47.719: I/Choreographer(1149): Skipped 34 frames!  The application may be doing too much work on its main thread.
+10-13 19:09:50.039: I/System.out(1149): 3
+10-13 19:09:51.019: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:09:57.092: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:09:58.039: I/TestRunner(1149): failed: testEP29(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:09:58.039: I/TestRunner(1149): ----- begin exception -----
+10-13 19:09:58.069: I/TestRunner(1149): junit.framework.AssertionFailedError
+10-13 19:09:58.069: I/TestRunner(1149):   at junit.framework.Assert.fail(Assert.java:48)
+10-13 19:09:58.069: I/TestRunner(1149):   at junit.framework.Assert.assertTrue(Assert.java:20)
+10-13 19:09:58.069: I/TestRunner(1149):   at junit.framework.Assert.assertTrue(Assert.java:27)
+10-13 19:09:58.069: I/TestRunner(1149):   at com.example.matrixcalculator.test.FunctionalTests.testEP29(MainTest.scala:396)
+10-13 19:09:58.069: I/TestRunner(1149):   at java.lang.reflect.Method.invokeNative(Native Method)
+10-13 19:09:58.069: I/TestRunner(1149):   at java.lang.reflect.Method.invoke(Method.java:525)
+10-13 19:09:58.069: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)
+10-13 19:09:58.069: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)
+10-13 19:09:58.069: I/TestRunner(1149):   at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)
+10-13 19:09:58.069: I/TestRunner(1149):   at junit.framework.TestCase.runBare(TestCase.java:134)
+10-13 19:09:58.069: I/TestRunner(1149):   at junit.framework.TestResult$1.protect(TestResult.java:115)
+10-13 19:09:58.069: I/TestRunner(1149):   at junit.framework.TestResult.runProtected(TestResult.java:133)
+10-13 19:09:58.069: I/TestRunner(1149):   at junit.framework.TestResult.run(TestResult.java:118)
+10-13 19:09:58.069: I/TestRunner(1149):   at junit.framework.TestCase.run(TestCase.java:124)
+10-13 19:09:58.069: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)
+10-13 19:09:58.069: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)
+10-13 19:09:58.069: I/TestRunner(1149):   at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)
+10-13 19:09:58.069: I/TestRunner(1149):   at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)
+10-13 19:09:58.069: I/TestRunner(1149): ----- end exception -----
+10-13 19:09:58.129: I/TestRunner(1149): finished: testEP29(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:09:58.169: I/TestRunner(1149): started: testEVA01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:09:58.229: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:09:59.859: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:10:18.829: D/dalvikvm(1149): GC_FOR_ALLOC freed 2286K, 19% free 10686K/13140K, paused 398ms, total 413ms
+10-13 19:10:20.259: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:10:20.669: I/Choreographer(1149): Skipped 39 frames!  The application may be doing too much work on its main thread.
+10-13 19:10:23.781: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:10:24.649: I/TestRunner(1149): failed: testEVA01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:10:24.649: I/TestRunner(1149): ----- begin exception -----
+10-13 19:10:24.670: I/TestRunner(1149): junit.framework.AssertionFailedError: Toast message appeared- Empty matrix row or column size. Enter size range between 1 to 5. expected:<false> but was:<true>
+10-13 19:10:24.670: I/TestRunner(1149):   at junit.framework.Assert.fail(Assert.java:50)
+10-13 19:10:24.670: I/TestRunner(1149):   at junit.framework.Assert.failNotEquals(Assert.java:287)
+10-13 19:10:24.670: I/TestRunner(1149):   at junit.framework.Assert.assertEquals(Assert.java:67)
+10-13 19:10:24.670: I/TestRunner(1149):   at junit.framework.Assert.assertEquals(Assert.java:147)
+10-13 19:10:24.670: I/TestRunner(1149):   at com.example.matrixcalculator.test.FunctionalTests.testEVA01(MainTest.scala:641)
+10-13 19:10:24.670: I/TestRunner(1149):   at java.lang.reflect.Method.invokeNative(Native Method)
+10-13 19:10:24.670: I/TestRunner(1149):   at java.lang.reflect.Method.invoke(Method.java:525)
+10-13 19:10:24.670: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)
+10-13 19:10:24.670: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)
+10-13 19:10:24.670: I/TestRunner(1149):   at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)
+10-13 19:10:24.670: I/TestRunner(1149):   at junit.framework.TestCase.runBare(TestCase.java:134)
+10-13 19:10:24.670: I/TestRunner(1149):   at junit.framework.TestResult$1.protect(TestResult.java:115)
+10-13 19:10:24.670: I/TestRunner(1149):   at junit.framework.TestResult.runProtected(TestResult.java:133)
+10-13 19:10:24.670: I/TestRunner(1149):   at junit.framework.TestResult.run(TestResult.java:118)
+10-13 19:10:24.670: I/TestRunner(1149):   at junit.framework.TestCase.run(TestCase.java:124)
+10-13 19:10:24.670: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)
+10-13 19:10:24.670: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)
+10-13 19:10:24.670: I/TestRunner(1149):   at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)
+10-13 19:10:24.670: I/TestRunner(1149):   at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)
+10-13 19:10:24.670: I/TestRunner(1149): ----- end exception -----
+10-13 19:10:24.729: I/TestRunner(1149): finished: testEVA01(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:10:24.819: I/TestRunner(1149): started: testEVA02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:10:24.869: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:10:25.310: W/IInputConnectionWrapper(1149): showStatusIcon on inactive InputConnection
+10-13 19:10:26.641: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:10:48.509: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:10:48.789: I/Choreographer(1149): Skipped 31 frames!  The application may be doing too much work on its main thread.
+10-13 19:10:52.422: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:10:53.179: W/IInputConnectionWrapper(1149): showStatusIcon on inactive InputConnection
+10-13 19:10:54.029: D/dalvikvm(1149): GC_FOR_ALLOC freed 1610K, 16% free 11123K/13140K, paused 780ms, total 805ms
+10-13 19:10:54.039: I/TestRunner(1149): failed: testEVA02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:10:54.039: I/TestRunner(1149): ----- begin exception -----
+10-13 19:10:54.069: I/TestRunner(1149): junit.framework.AssertionFailedError: Toast message appeared- Empty matrix row or column size. Enter size range between 1 to 5. expected:<false> but was:<true>
+10-13 19:10:54.069: I/TestRunner(1149):   at junit.framework.Assert.fail(Assert.java:50)
+10-13 19:10:54.069: I/TestRunner(1149):   at junit.framework.Assert.failNotEquals(Assert.java:287)
+10-13 19:10:54.069: I/TestRunner(1149):   at junit.framework.Assert.assertEquals(Assert.java:67)
+10-13 19:10:54.069: I/TestRunner(1149):   at junit.framework.Assert.assertEquals(Assert.java:147)
+10-13 19:10:54.069: I/TestRunner(1149):   at com.example.matrixcalculator.test.FunctionalTests.testEVA02(MainTest.scala:655)
+10-13 19:10:54.069: I/TestRunner(1149):   at java.lang.reflect.Method.invokeNative(Native Method)
+10-13 19:10:54.069: I/TestRunner(1149):   at java.lang.reflect.Method.invoke(Method.java:525)
+10-13 19:10:54.069: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)
+10-13 19:10:54.069: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)
+10-13 19:10:54.069: I/TestRunner(1149):   at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)
+10-13 19:10:54.069: I/TestRunner(1149):   at junit.framework.TestCase.runBare(TestCase.java:134)
+10-13 19:10:54.069: I/TestRunner(1149):   at junit.framework.TestResult$1.protect(TestResult.java:115)
+10-13 19:10:54.069: I/TestRunner(1149):   at junit.framework.TestResult.runProtected(TestResult.java:133)
+10-13 19:10:54.069: I/TestRunner(1149):   at junit.framework.TestResult.run(TestResult.java:118)
+10-13 19:10:54.069: I/TestRunner(1149):   at junit.framework.TestCase.run(TestCase.java:124)
+10-13 19:10:54.069: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)
+10-13 19:10:54.069: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)
+10-13 19:10:54.069: I/TestRunner(1149):   at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)
+10-13 19:10:54.069: I/TestRunner(1149):   at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)
+10-13 19:10:54.089: I/TestRunner(1149): ----- end exception -----
+10-13 19:10:54.169: I/TestRunner(1149): finished: testEVA02(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:10:54.229: I/TestRunner(1149): started: testEVA03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:10:54.270: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:10:54.879: I/Choreographer(1149): Skipped 30 frames!  The application may be doing too much work on its main thread.
+10-13 19:10:56.290: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:11:02.869: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:11:03.139: I/Choreographer(1149): Skipped 34 frames!  The application may be doing too much work on its main thread.
+10-13 19:11:05.639: I/System.out(1149): 3
+10-13 19:11:06.469: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:11:12.549: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:11:13.539: I/TestRunner(1149): failed: testEVA03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:11:13.539: I/TestRunner(1149): ----- begin exception -----
+10-13 19:11:13.569: I/TestRunner(1149): junit.framework.AssertionFailedError
+10-13 19:11:13.569: I/TestRunner(1149):   at junit.framework.Assert.fail(Assert.java:48)
+10-13 19:11:13.569: I/TestRunner(1149):   at junit.framework.Assert.assertTrue(Assert.java:20)
+10-13 19:11:13.569: I/TestRunner(1149):   at junit.framework.Assert.assertTrue(Assert.java:27)
+10-13 19:11:13.569: I/TestRunner(1149):   at com.example.matrixcalculator.test.FunctionalTests.testEVA03(MainTest.scala:670)
+10-13 19:11:13.569: I/TestRunner(1149):   at java.lang.reflect.Method.invokeNative(Native Method)
+10-13 19:11:13.569: I/TestRunner(1149):   at java.lang.reflect.Method.invoke(Method.java:525)
+10-13 19:11:13.569: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)
+10-13 19:11:13.569: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)
+10-13 19:11:13.569: I/TestRunner(1149):   at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)
+10-13 19:11:13.569: I/TestRunner(1149):   at junit.framework.TestCase.runBare(TestCase.java:134)
+10-13 19:11:13.569: I/TestRunner(1149):   at junit.framework.TestResult$1.protect(TestResult.java:115)
+10-13 19:11:13.569: I/TestRunner(1149):   at junit.framework.TestResult.runProtected(TestResult.java:133)
+10-13 19:11:13.569: I/TestRunner(1149):   at junit.framework.TestResult.run(TestResult.java:118)
+10-13 19:11:13.569: I/TestRunner(1149):   at junit.framework.TestCase.run(TestCase.java:124)
+10-13 19:11:13.569: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)
+10-13 19:11:13.569: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)
+10-13 19:11:13.569: I/TestRunner(1149):   at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)
+10-13 19:11:13.569: I/TestRunner(1149):   at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)
+10-13 19:11:13.569: I/TestRunner(1149): ----- end exception -----
+10-13 19:11:13.779: I/TestRunner(1149): finished: testEVA03(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:11:13.829: I/TestRunner(1149): started: testEVA04(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:11:13.869: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:11:15.801: D/dalvikvm(1149): GC_FOR_ALLOC freed 1915K, 16% free 11257K/13340K, paused 406ms, total 424ms
+10-13 19:11:16.129: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:11:22.169: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:11:22.430: I/Choreographer(1149): Skipped 32 frames!  The application may be doing too much work on its main thread.
+10-13 19:11:24.829: I/System.out(1149): 3
+10-13 19:11:25.729: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:11:31.811: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:11:32.789: I/TestRunner(1149): failed: testEVA04(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:11:32.799: I/TestRunner(1149): ----- begin exception -----
+10-13 19:11:32.829: I/TestRunner(1149): junit.framework.AssertionFailedError
+10-13 19:11:32.829: I/TestRunner(1149):   at junit.framework.Assert.fail(Assert.java:48)
+10-13 19:11:32.829: I/TestRunner(1149):   at junit.framework.Assert.assertTrue(Assert.java:20)
+10-13 19:11:32.829: I/TestRunner(1149):   at junit.framework.Assert.assertTrue(Assert.java:27)
+10-13 19:11:32.829: I/TestRunner(1149):   at com.example.matrixcalculator.test.FunctionalTests.testEVA04(MainTest.scala:685)
+10-13 19:11:32.829: I/TestRunner(1149):   at java.lang.reflect.Method.invokeNative(Native Method)
+10-13 19:11:32.829: I/TestRunner(1149):   at java.lang.reflect.Method.invoke(Method.java:525)
+10-13 19:11:32.829: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)
+10-13 19:11:32.829: I/TestRunner(1149):   at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)
+10-13 19:11:32.829: I/TestRunner(1149):   at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)
+10-13 19:11:32.829: I/TestRunner(1149):   at junit.framework.TestCase.runBare(TestCase.java:134)
+10-13 19:11:32.829: I/TestRunner(1149):   at junit.framework.TestResult$1.protect(TestResult.java:115)
+10-13 19:11:32.829: I/TestRunner(1149):   at junit.framework.TestResult.runProtected(TestResult.java:133)
+10-13 19:11:32.829: I/TestRunner(1149):   at junit.framework.TestResult.run(TestResult.java:118)
+10-13 19:11:32.829: I/TestRunner(1149):   at junit.framework.TestCase.run(TestCase.java:124)
+10-13 19:11:32.829: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)
+10-13 19:11:32.829: I/TestRunner(1149):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)
+10-13 19:11:32.829: I/TestRunner(1149):   at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)
+10-13 19:11:32.829: I/TestRunner(1149):   at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)
+10-13 19:11:32.881: I/TestRunner(1149): ----- end exception -----
+10-13 19:11:32.969: I/TestRunner(1149): finished: testEVA04(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:11:33.029: I/TestRunner(1149): started: testEVA05(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:11:33.089: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:11:34.909: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:11:38.499: D/dalvikvm(1149): GC_FOR_ALLOC freed 1815K, 15% free 11490K/13472K, paused 279ms, total 303ms
+10-13 19:11:41.789: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:11:42.179: I/Choreographer(1149): Skipped 40 frames!  The application may be doing too much work on its main thread.
+10-13 19:11:44.549: I/System.out(1149): 3
+10-13 19:11:45.629: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:11:47.369: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:11:48.389: I/TestRunner(1149): finished: testEVA05(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:11:48.389: I/TestRunner(1149): passed: testEVA05(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:11:48.429: I/TestRunner(1149): started: testEVA06(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:11:48.469: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:11:50.229: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:11:57.099: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:11:58.119: D/dalvikvm(1149): GC_FOR_ALLOC freed 2035K, 17% free 11506K/13708K, paused 430ms, total 485ms
+10-13 19:11:58.479: I/Choreographer(1149): Skipped 113 frames!  The application may be doing too much work on its main thread.
+10-13 19:12:01.069: I/System.out(1149): 3
+10-13 19:12:01.849: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:12:03.360: I/Choreographer(1149): Skipped 37 frames!  The application may be doing too much work on its main thread.
+10-13 19:12:03.989: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:12:04.759: I/TestRunner(1149): finished: testEVA06(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:12:04.759: I/TestRunner(1149): passed: testEVA06(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:12:04.819: I/TestRunner(1149): started: testEVA07(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:12:04.869: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:12:06.499: I/Choreographer(1149): Skipped 55 frames!  The application may be doing too much work on its main thread.
+10-13 19:12:06.769: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:12:13.770: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:12:14.150: I/Choreographer(1149): Skipped 113 frames!  The application may be doing too much work on its main thread.
+10-13 19:12:15.249: I/Choreographer(1149): Skipped 32 frames!  The application may be doing too much work on its main thread.
+10-13 19:12:18.049: D/dalvikvm(1149): GC_FOR_ALLOC freed 1822K, 15% free 11735K/13724K, paused 309ms, total 330ms
+10-13 19:12:25.919: D/dalvikvm(1149): GC_FOR_ALLOC freed 2303K, 18% free 11481K/13952K, paused 298ms, total 314ms
+10-13 19:12:33.569: D/dalvikvm(1149): GC_FOR_ALLOC freed 2054K, 18% free 11475K/13952K, paused 295ms, total 326ms
+10-13 19:12:41.261: D/dalvikvm(1149): GC_FOR_ALLOC freed 2049K, 18% free 11473K/13952K, paused 295ms, total 325ms
+10-13 19:12:49.139: D/dalvikvm(1149): GC_FOR_ALLOC freed 2039K, 18% free 11481K/13952K, paused 296ms, total 329ms
+10-13 19:12:56.769: D/dalvikvm(1149): GC_FOR_ALLOC freed 2057K, 18% free 11472K/13952K, paused 289ms, total 313ms
+10-13 19:13:05.269: D/dalvikvm(1149): GC_FOR_ALLOC freed 2051K, 18% free 11469K/13952K, paused 342ms, total 364ms
+10-13 19:13:13.359: D/dalvikvm(1149): GC_FOR_ALLOC freed 2042K, 18% free 11474K/13952K, paused 300ms, total 331ms
+10-13 19:13:17.159: I/System.out(1149): 127
+10-13 19:13:18.150: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:13:18.519: I/Choreographer(1149): Skipped 35 frames!  The application may be doing too much work on its main thread.
+10-13 19:13:19.939: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:13:21.109: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:13:21.929: I/TestRunner(1149): finished: testEVA07(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:13:21.939: I/TestRunner(1149): passed: testEVA07(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:13:21.989: I/TestRunner(1149): started: testEVA08(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:13:22.039: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:13:24.030: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:13:31.589: D/dalvikvm(1149): GC_FOR_ALLOC freed 1664K, 16% free 11858K/13952K, paused 451ms, total 479ms
+10-13 19:13:32.519: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:13:32.719: I/Choreographer(1149): Skipped 192 frames!  The application may be doing too much work on its main thread.
+10-13 19:13:41.389: D/dalvikvm(1149): GC_FOR_ALLOC freed 2321K, 18% free 11583K/14072K, paused 298ms, total 327ms
+10-13 19:13:48.629: D/dalvikvm(1149): GC_FOR_ALLOC freed 2045K, 18% free 11586K/14072K, paused 293ms, total 320ms
+10-13 19:13:55.809: D/dalvikvm(1149): GC_FOR_ALLOC freed 2048K, 18% free 11585K/14072K, paused 295ms, total 326ms
+10-13 19:14:03.429: D/dalvikvm(1149): GC_FOR_ALLOC freed 2045K, 18% free 11588K/14072K, paused 293ms, total 321ms
+10-13 19:14:11.289: D/dalvikvm(1149): GC_FOR_ALLOC freed 2046K, 18% free 11589K/14072K, paused 297ms, total 324ms
+10-13 19:14:18.719: D/dalvikvm(1149): GC_FOR_ALLOC freed 2055K, 18% free 11582K/14072K, paused 294ms, total 325ms
+10-13 19:14:26.809: D/dalvikvm(1149): GC_FOR_ALLOC freed 2050K, 18% free 11579K/14072K, paused 298ms, total 326ms
+10-13 19:14:32.469: I/System.out(1149): 127
+10-13 19:14:33.319: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:14:35.249: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:14:36.259: I/TestRunner(1149): finished: testEVA08(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:14:36.259: I/TestRunner(1149): passed: testEVA08(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:14:36.299: I/TestRunner(1149): started: testEVA09(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:14:36.340: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:14:38.049: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:14:43.100: D/dalvikvm(1149): GC_FOR_ALLOC freed 1912K, 17% free 11715K/14072K, paused 459ms, total 477ms
+10-13 19:14:45.879: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:14:46.060: I/Choreographer(1149): Skipped 89 frames!  The application may be doing too much work on its main thread.
+10-13 19:14:47.029: I/Choreographer(1149): Skipped 30 frames!  The application may be doing too much work on its main thread.
+10-13 19:14:52.819: D/dalvikvm(1149): GC_FOR_ALLOC freed 2064K, 17% free 11698K/14072K, paused 303ms, total 336ms
+10-13 19:15:00.519: D/dalvikvm(1149): GC_FOR_ALLOC freed 2044K, 17% free 11701K/14072K, paused 532ms, total 551ms
+10-13 19:15:07.649: D/dalvikvm(1149): GC_FOR_ALLOC freed 2054K, 17% free 11695K/14072K, paused 307ms, total 318ms
+10-13 19:15:14.989: D/dalvikvm(1149): GC_FOR_ALLOC freed 2049K, 17% free 11694K/14072K, paused 301ms, total 326ms
+10-13 19:15:22.739: D/dalvikvm(1149): GC_FOR_ALLOC freed 2045K, 17% free 11696K/14072K, paused 311ms, total 335ms
+10-13 19:15:30.659: D/dalvikvm(1149): GC_FOR_ALLOC freed 2045K, 17% free 11698K/14072K, paused 301ms, total 334ms
+10-13 19:15:38.709: D/dalvikvm(1149): GC_FOR_ALLOC freed 2056K, 17% free 11690K/14072K, paused 301ms, total 331ms
+10-13 19:15:46.419: I/System.out(1149): 127
+10-13 19:15:47.609: D/dalvikvm(1149): GC_FOR_ALLOC freed 2021K, 17% free 11716K/14072K, paused 454ms, total 487ms
+10-13 19:15:48.189: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:15:48.569: I/Choreographer(1149): Skipped 31 frames!  The application may be doing too much work on its main thread.
+10-13 19:15:50.159: I/Choreographer(1149): Skipped 33 frames!  The application may be doing too much work on its main thread.
+10-13 19:15:51.410: I/TestRunner(1149): finished: testEVA09(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:15:51.419: I/TestRunner(1149): passed: testEVA09(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:15:51.459: I/TestRunner(1149): started: testEVA10(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:15:51.509: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:15:53.539: I/Choreographer(1149): Skipped 193 frames!  The application may be doing too much work on its main thread.
+10-13 19:15:54.129: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:16:01.459: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:16:01.649: I/Choreographer(1149): Skipped 118 frames!  The application may be doing too much work on its main thread.
+10-13 19:16:06.000: D/dalvikvm(1149): GC_FOR_ALLOC freed 1632K, 14% free 12132K/14072K, paused 307ms, total 330ms
+10-13 19:16:13.559: D/dalvikvm(1149): GC_FOR_ALLOC freed 2372K, 18% free 11809K/14348K, paused 351ms, total 378ms
+10-13 19:16:21.000: D/dalvikvm(1149): GC_FOR_ALLOC freed 2050K, 18% free 11806K/14348K, paused 304ms, total 316ms
+10-13 19:16:28.269: D/dalvikvm(1149): GC_FOR_ALLOC freed 2052K, 18% free 11801K/14348K, paused 305ms, total 324ms
+10-13 19:16:35.869: D/dalvikvm(1149): GC_FOR_ALLOC freed 2049K, 18% free 11799K/14348K, paused 309ms, total 337ms
+10-13 19:16:43.849: D/dalvikvm(1149): GC_FOR_ALLOC freed 2041K, 18% free 11806K/14348K, paused 314ms, total 343ms
+10-13 19:16:51.849: D/dalvikvm(1149): GC_FOR_ALLOC freed 2054K, 18% free 11800K/14348K, paused 308ms, total 324ms
+10-13 19:16:59.779: D/dalvikvm(1149): GC_FOR_ALLOC freed 2052K, 18% free 11795K/14348K, paused 308ms, total 334ms
+10-13 19:17:03.539: I/System.out(1149): 127
+10-13 19:17:04.369: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:17:04.909: I/Choreographer(1149): Skipped 40 frames!  The application may be doing too much work on its main thread.
+10-13 19:17:06.304: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:17:07.372: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:17:08.189: I/TestRunner(1149): finished: testEVA10(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:17:08.189: I/TestRunner(1149): passed: testEVA10(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:17:08.239: I/TestRunner(1149): started: testEVA11(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:17:08.299: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:17:09.989: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:17:18.379: D/dalvikvm(1149): GC_FOR_ALLOC freed 1653K, 16% free 12190K/14348K, paused 516ms, total 540ms
+10-13 19:17:18.709: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:17:18.950: I/Choreographer(1149): Skipped 188 frames!  The application may be doing too much work on its main thread.
+10-13 19:17:27.479: D/dalvikvm(1149): GC_FOR_ALLOC freed 2338K, 18% free 11903K/14408K, paused 315ms, total 345ms
+10-13 19:17:34.849: D/dalvikvm(1149): GC_FOR_ALLOC freed 2029K, 18% free 11921K/14408K, paused 317ms, total 349ms
+10-13 19:17:42.179: D/dalvikvm(1149): GC_FOR_ALLOC freed 2057K, 18% free 11911K/14408K, paused 307ms, total 333ms
+10-13 19:17:49.509: D/dalvikvm(1149): GC_FOR_ALLOC freed 2049K, 18% free 11909K/14408K, paused 312ms, total 330ms
+10-13 19:17:57.269: D/dalvikvm(1149): GC_FOR_ALLOC freed 2046K, 18% free 11911K/14408K, paused 310ms, total 340ms
+10-13 19:18:05.519: D/dalvikvm(1149): GC_FOR_ALLOC freed 2044K, 18% free 11914K/14408K, paused 306ms, total 318ms
+10-13 19:18:13.529: D/dalvikvm(1149): GC_FOR_ALLOC freed 2056K, 18% free 11905K/14408K, paused 306ms, total 333ms
+10-13 19:18:18.890: I/System.out(1149): 127
+10-13 19:18:19.739: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:18:20.259: I/Choreographer(1149): Skipped 39 frames!  The application may be doing too much work on its main thread.
+10-13 19:18:21.709: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:18:22.880: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:18:23.699: I/TestRunner(1149): finished: testEVA11(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:18:23.709: I/TestRunner(1149): passed: testEVA11(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:18:23.769: I/TestRunner(1149): started: testEVA12(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:18:23.829: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:18:25.289: I/Choreographer(1149): Skipped 59 frames!  The application may be doing too much work on its main thread.
+10-13 19:18:25.609: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:18:31.169: D/dalvikvm(1149): GC_FOR_ALLOC freed 1866K, 17% free 12086K/14408K, paused 481ms, total 515ms
+10-13 19:18:33.659: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:18:33.859: I/Choreographer(1149): Skipped 92 frames!  The application may be doing too much work on its main thread.
+10-13 19:18:40.850: D/dalvikvm(1149): GC_FOR_ALLOC freed 2164K, 17% free 11970K/14408K, paused 307ms, total 322ms
+10-13 19:18:48.179: D/dalvikvm(1149): GC_FOR_ALLOC freed 1993K, 17% free 12025K/14408K, paused 316ms, total 344ms
+10-13 19:18:55.609: D/dalvikvm(1149): GC_FOR_ALLOC freed 2045K, 17% free 12028K/14408K, paused 315ms, total 344ms
+10-13 19:19:03.029: D/dalvikvm(1149): JIT code cache reset in 142 ms (1048544 bytes 1/0)
+10-13 19:19:03.129: D/dalvikvm(1149): GC_FOR_ALLOC freed 2055K, 17% free 12021K/14408K, paused 462ms, total 495ms
+10-13 19:19:12.659: D/dalvikvm(1149): GC_FOR_ALLOC freed 2052K, 17% free 12016K/14408K, paused 310ms, total 324ms
+10-13 19:19:20.629: D/dalvikvm(1149): GC_FOR_ALLOC freed 2040K, 17% free 12023K/14408K, paused 337ms, total 364ms
+10-13 19:19:29.019: D/dalvikvm(1149): GC_FOR_ALLOC freed 2050K, 17% free 12021K/14408K, paused 314ms, total 326ms
+10-13 19:19:36.249: I/System.out(1149): 127
+10-13 19:19:37.659: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:19:38.279: I/Choreographer(1149): Skipped 47 frames!  The application may be doing too much work on its main thread.
+10-13 19:19:39.349: D/dalvikvm(1149): GC_FOR_ALLOC freed 2003K, 17% free 12065K/14408K, paused 471ms, total 498ms
+10-13 19:19:40.239: I/Choreographer(1149): Skipped 34 frames!  The application may be doing too much work on its main thread.
+10-13 19:19:40.559: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:19:41.459: I/TestRunner(1149): finished: testEVA12(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:19:41.479: I/TestRunner(1149): passed: testEVA12(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:19:41.519: I/TestRunner(1149): started: testEVA13(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:19:41.599: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:19:41.979: I/Choreographer(1149): Skipped 33 frames!  The application may be doing too much work on its main thread.
+10-13 19:19:43.079: I/Choreographer(1149): Skipped 60 frames!  The application may be doing too much work on its main thread.
+10-13 19:19:43.479: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:19:50.959: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:19:51.239: I/Choreographer(1149): Skipped 104 frames!  The application may be doing too much work on its main thread.
+10-13 19:19:52.560: I/Choreographer(1149): Skipped 46 frames!  The application may be doing too much work on its main thread.
+10-13 19:19:56.649: D/dalvikvm(1149): GC_FOR_ALLOC freed 1641K, 14% free 12471K/14408K, paused 319ms, total 346ms
+10-13 19:20:04.549: D/dalvikvm(1149): GC_FOR_ALLOC freed 2390K, 18% free 12130K/14688K, paused 325ms, total 357ms
+10-13 19:20:12.020: D/dalvikvm(1149): GC_FOR_ALLOC freed 2042K, 18% free 12136K/14688K, paused 320ms, total 350ms
+10-13 19:20:19.619: D/dalvikvm(1149): GC_FOR_ALLOC freed 2052K, 18% free 12131K/14688K, paused 314ms, total 345ms
+10-13 19:20:27.349: D/dalvikvm(1149): GC_FOR_ALLOC freed 2052K, 18% free 12127K/14688K, paused 316ms, total 343ms
+10-13 19:20:35.539: D/dalvikvm(1149): GC_FOR_ALLOC freed 2048K, 18% free 12127K/14688K, paused 366ms, total 394ms
+10-13 19:20:44.099: D/dalvikvm(1149): GC_FOR_ALLOC freed 2041K, 18% free 12133K/14688K, paused 313ms, total 337ms
+10-13 19:20:51.830: D/dalvikvm(1149): GC_FOR_ALLOC freed 2057K, 18% free 12124K/14688K, paused 317ms, total 344ms
+10-13 19:20:54.079: I/System.out(1149): 127
+10-13 19:20:55.249: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:20:55.649: I/Choreographer(1149): Skipped 33 frames!  The application may be doing too much work on its main thread.
+10-13 19:20:58.749: I/TestRunner(1149): finished: testEVA13(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:20:58.749: I/TestRunner(1149): passed: testEVA13(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:20:58.849: I/TestRunner(1149): started: testEVA14(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:20:58.889: E/dalvikvm(1149): Unable to resolve Lcom/example/matrixcalculator/test/FunctionalTests; annotation class 244
+10-13 19:21:01.119: I/Choreographer(1149): Skipped 209 frames!  The application may be doing too much work on its main thread.
+10-13 19:21:01.824: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:21:09.799: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:21:10.021: I/Choreographer(1149): Skipped 135 frames!  The application may be doing too much work on its main thread.
+10-13 19:21:11.389: D/dalvikvm(1149): GC_FOR_ALLOC freed 1638K, 15% free 12533K/14688K, paused 678ms, total 703ms
+10-13 19:21:19.889: D/dalvikvm(1149): GC_FOR_ALLOC freed 2349K, 18% free 12232K/14748K, paused 396ms, total 414ms
+10-13 19:21:27.089: D/dalvikvm(1149): GC_FOR_ALLOC freed 2038K, 17% free 12242K/14748K, paused 324ms, total 358ms
+10-13 19:21:34.419: D/dalvikvm(1149): GC_FOR_ALLOC freed 2046K, 17% free 12243K/14748K, paused 325ms, total 338ms
+10-13 19:21:41.660: D/dalvikvm(1149): GC_FOR_ALLOC freed 2055K, 18% free 12236K/14748K, paused 316ms, total 327ms
+10-13 19:21:49.279: D/dalvikvm(1149): GC_FOR_ALLOC freed 2049K, 18% free 12234K/14748K, paused 316ms, total 342ms
+10-13 19:21:56.979: D/dalvikvm(1149): GC_FOR_ALLOC freed 2043K, 18% free 12239K/14748K, paused 319ms, total 345ms
+10-13 19:22:05.489: D/dalvikvm(1149): GC_FOR_ALLOC freed 2052K, 18% free 12234K/14748K, paused 325ms, total 337ms
+10-13 19:22:10.389: I/System.out(1149): 127
+10-13 19:22:11.369: W/EGL_emulation(1149): eglSurfaceAttrib not implemented
+10-13 19:22:11.909: I/Choreographer(1149): Skipped 39 frames!  The application may be doing too much work on its main thread.
+10-13 19:22:13.529: I/Choreographer(1149): Skipped 33 frames!  The application may be doing too much work on its main thread.
+10-13 19:22:14.740: I/TestRunner(1149): finished: testEVA14(com.example.matrixcalculator.test.FunctionalTests)
+10-13 19:22:14.740: I/TestRunner(1149): passed: testEVA14(com.example.matrixcalculator.test.FunctionalTests)
